@@ -1,0 +1,41 @@
+---
+layout: compress
+---
+{% include head.html %}
+
+<body>
+  {% include nav.html %}
+  {{ content }}
+
+  <!-- nav -->
+  <script src="{{ 'js/app.js' | relative_url }}" defer></script>
+  <script src="https://cdn.lordicon.com/lusqsztk.js" defer></script>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <!-- Scroll fixed Nav -->
+<script>
+  $(document).ready(function () {
+    $(window).scroll(function () {
+      var height = $('.first-container').height();
+      var scrollTop = $(window).scrollTop();
+      if (scrollTop >= 1 ) {
+        $('.nav-container').addClass('solid');
+      } else {
+        $('.nav-container').removeClass('solid');
+      }
+    });
+  });
+</script>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{ 'js/search-script.js' | relative_url }}"></script>
+<!-- Buscador -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: "/search.json"
+  })
+</script>

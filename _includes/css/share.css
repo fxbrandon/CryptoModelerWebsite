@@ -1,0 +1,40 @@
+.share-box {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: space-around;
+}
+
+.share-box a {
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px var(--gris1);
+  padding: 5px 12px;
+  text-decoration: none;
+  font-weight: 700;
+  opacity: 1;
+}
+
+.share-box a:hover {
+  text-decoration: none;
+  transition: background-color 200ms linear;
+}
+
+.f {
+  color: #1644a5;
+}
+
+.i {
+  color: #5bd336;
+}
+
+.f:hover {
+  color: #fff;
+  background-color: #1644a5;
+  box-shadow: var(--shadow);
+}
+
+.i:hover {
+  color: #fff;
+  background-color: #43d336;
+  box-shadow: var(--shadow);
+}

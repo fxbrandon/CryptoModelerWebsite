@@ -1,0 +1,378 @@
+.about {
+  padding: 7rem clamp(1rem, 5vw, 7rem);
+  color: white;
+  margin: 3rem 0;
+}
+
+.about h2 {
+  color: var(--principal);
+  font-weight: 900;
+  margin-bottom: 3rem;
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(2rem, 5vw, 4rem);
+  margin: 7rem 0;
+  place-content: center;
+  border-radius: 0 0 14% 12%;
+}
+
+.features li {
+  background-color: var(--secundario);
+  border-radius: 24% 13% 13% 19% / 20% 10% 36% 27%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7vh 5vw;
+  box-shadow: var(--shadow);
+  max-width: 320px;
+}
+
+.features li img {
+  max-width: 70%;
+  margin-bottom: 2rem;
+}
+
+.features li p {
+  font-size: 16px;
+  text-align: center;
+}
+
+.features li p strong {
+  color: var(--accion);
+}
+
+.how {
+  background: var(--blanco);
+  display: grid;
+  gap: 5rem;
+  padding: 12rem clamp(1rem, 5vw, 7rem);
+}
+
+.how h2 {
+  color: var(--principal);
+  text-shadow: var(--shadow);
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.how-steps {
+  display: grid;
+  gap: 7rem;
+  place-content: center;
+}
+
+.how-steps li {
+  width: min(90vw, 1024px);
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.how-steps li img {
+  max-height: 90vh;
+  max-width: 100%;
+}
+
+.how-steps li p {
+  position: absolute;
+  bottom: 0;
+  padding: 1.2rem 2rem;
+  border-radius: 12px;
+  background-color: rgba(7, 7, 10, 0.8);
+  color: white;
+  box-sizing: border-box;
+  width: min(80vw, 960px);
+  box-shadow: var(--shadow);
+}
+
+.how ul li:nth-child(2) p {
+  background-color: rgba(243, 194, 39, 0.8);
+  color: var(--grisFuentes);
+  font-weight: 700;
+}
+
+.how ul li:nth-child(1) p::before {
+  content: '1';
+  position: absolute;
+  top: -50px;
+  left: 50%;
+}
+
+.how ul li:nth-child(2) p::before {
+  content: '2';
+  position: absolute;
+  top: -50px;
+  left: 50%;
+}
+
+.how ul li:nth-child(3) p::before {
+  content: '3';
+  position: absolute;
+  top: -50px;
+  left: 50%;
+}
+
+.how ul li p::before {
+  font-family: var(--fuenteTitulos);
+  font-weight: 900;
+  font-size: 4rem;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.04), 2px 2px rgba(0, 0, 0, 0.04), 3px 3px rgba(0, 0, 0, 0.04), 4px 4px rgba(0, 0, 0, 0.04), 0.125rem 0.125rem rgba(0, 0, 0, 0.04), 6px 6px rgba(0, 0, 0, 0.04), 7px 7px rgba(0, 0, 0, 0.04), 8px 8px rgba(0, 0, 0, 0.04), 9px 9px rgba(0, 0, 0, 0.04), 0.3125rem 0.3125rem rgba(0, 0, 0, 0.04), 11px 11px rgba(0, 0, 0, 0.04), 12px 12px rgba(0, 0, 0, 0.04), 13px 13px rgba(0, 0, 0, 0.04), 14px 14px rgba(0, 0, 0, 0.04), 0.625rem 0.625rem rgba(0, 0, 0, 0.04), 16px 16px rgba(0, 0, 0, 0.04), 17px 17px rgba(0, 0, 0, 0.04), 18px 18px rgba(0, 0, 0, 0.04), 19px 19px rgba(0, 0, 0, 0.04), 1.25rem 1.25rem rgba(0, 0, 0, 0.04);
+  color: var(--accion);
+}
+
+.how h2~p {
+  width: min(90vw, 720px);
+  justify-self: center;
+  text-align: center;
+}
+
+.how h2~.botones {
+  justify-self: center;
+}
+
+.parallax {
+  background-image: url("{{site.baseurl}}/img/bg-cryptos.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax div {
+  display: grid;
+  gap: 1rem;
+  place-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 7rem 2rem;
+}
+
+.parallax div lord-icon {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.parallax p {
+  justify-self: center;
+  width: min(80vw, 60vw);
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--blanco);
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.04), 2px 2px rgba(0, 0, 0, 0.04), 3px 3px rgba(0, 0, 0, 0.04), 4px 4px rgba(0, 0, 0, 0.04), 0.125rem 0.125rem rgba(0, 0, 0, 0.04), 6px 6px rgba(0, 0, 0, 0.04), 7px 7px rgba(0, 0, 0, 0.04), 8px 8px rgba(0, 0, 0, 0.04), 9px 9px rgba(0, 0, 0, 0.04), 0.3125rem 0.3125rem rgba(0, 0, 0, 0.04), 11px 11px rgba(0, 0, 0, 0.04), 12px 12px rgba(0, 0, 0, 0.04), 13px 13px rgba(0, 0, 0, 0.04), 14px 14px rgba(0, 0, 0, 0.04), 0.625rem 0.625rem rgba(0, 0, 0, 0.04), 16px 16px rgba(0, 0, 0, 0.04), 17px 17px rgba(0, 0, 0, 0.04), 18px 18px rgba(0, 0, 0, 0.04), 19px 19px rgba(0, 0, 0, 0.04), 1.25rem 1.25rem rgba(0, 0, 0, 0.04);
+}
+
+.pricing {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 7rem clamp(1rem, 5vw, 7rem);
+  color: white;
+  align-items: center;
+}
+
+.pricing h2 {
+  color: var(--principal);
+}
+
+.pricing>p {
+  width: min(90vw, 720px);
+}
+
+.pricing .features li p {
+  margin: 0.5rem 0;
+}
+
+.rrss {
+  background-color: var(--secundario);
+  padding: 7rem clamp(1rem, 5vw, 7rem) 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 0 5% 34%;
+}
+
+.rrss h2 {
+  color: var(--principal);
+  margin-bottom: 3rem;
+  font-weight: 900;
+}
+
+.rrss div {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 40% 60%;
+  align-items: center;
+  width: min(90vw, 960px);
+  color: white;
+}
+
+.rrss svg {
+  width: 100%;
+}
+
+.redes {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.blog-intro {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: center;
+  padding: 7rem clamp(1rem, 5vw, 7rem);
+  color: white;
+}
+
+.blog-intro h2 {
+  font-weight: 900;
+  color: var(--principal);
+  width: 100%;
+}
+
+.blog-intro div,
+.blog-intro p {
+  width: min(90vw, 960px);
+}
+
+.blog-intro div {
+  display: flex;
+  gap: clamp(2rem, 10vw, 4rem);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog-intro div h3 {
+  color: var(--principal);
+  display: block;
+  width: 100%;
+}
+
+.article-blog a {
+  position: relative;
+  width: min(90vw, 300px);
+  height: 240px;
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+  grid-template-columns: auto auto;
+  padding: clamp(0.5rem, 5vw, 2rem) clamp(0.5rem, 5vw, 1.5rem);
+  border-radius: 12px;
+  background-color: var(--secundario);
+  box-shadow: var(--shadow);
+  color: var(--blanco);
+  text-decoration: none;
+}
+
+.article-blog img {
+  position: relative;
+  max-width: 100%;
+  max-height: max(12vh, 80px);
+  -o-object-fit: cover;
+  object-fit: cover;
+  top: 0;
+  border-radius: 12px 0 0 12px;
+}
+
+.article-blog small {
+  color: white;
+  grid-column: span 2;
+  text-align: right;
+}
+
+.cta {
+  background-color: var(--secundario);
+  padding: 7rem clamp(2rem, 5vw, 7rem);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  margin: 0 auto;
+  font-family: var(--fuenteTitulos);
+  font-weight: 700;
+  color: var(--principal);
+  border-radius: 12px 20px 0 0;
+  box-shadow: var(--shadow);
+}
+
+.cta em {
+  width: min(80vw, auto);
+}
+
+.cta a {
+  top: 0;
+}
+
+.faq{
+  background-color: var(--complemento1);
+  color: white;
+  display: grid;
+  place-content: center;
+  padding: 7rem 0;
+}
+
+.faq h2{
+  margin-bottom: 3rem;
+}
+
+ul.jekyllcodex_accordion {
+  position: relative;
+  margin: 0 0 !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  padding-bottom: 0;
+  width: min(90vw, 720px);
+}
+
+ul.jekyllcodex_accordion li {
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  list-style: none;
+  margin-left: 0;
+}
+
+ul.jekyllcodex_accordion li input {
+  display: none;
+}
+
+ul.jekyllcodex_accordion li label {
+  display: block;
+  cursor: pointer;
+  padding: 0.75rem 2.4rem 0.75rem 0;
+  margin: 0;
+}
+
+ul.jekyllcodex_accordion li div {
+  display: none;
+  padding-bottom: 1.2rem;
+}
+
+ul.jekyllcodex_accordion li input:checked+label {
+  font-weight: bold;
+}
+
+ul.jekyllcodex_accordion li input:checked+label+div {
+  display: block;
+}
+
+ul.jekyllcodex_accordion li label::before {
+  content: "+";
+  font-weight: normal;
+  font-size: 130%;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  transition: all 0.15s ease-in-out;
+}
+
+ul.jekyllcodex_accordion li input:checked+label::before {
+  transform: rotate(-45deg);
+}

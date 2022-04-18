@@ -1,0 +1,65 @@
+.articulo {
+  position: relative;
+  background-color: var(--blanco);
+  display: grid;
+  gap: 2rem;
+  place-content: center;
+  padding: clamp(4rem, 7vw, 7rem) clamp(2rem, 5vw, 3rem) 4rem;
+  border-radius: 0 0 7% 10%
+}
+
+.articulo section {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center
+}
+
+.articulo section img {
+  max-width: 100%;
+  max-height: 70vh;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: top;
+  object-position: top;
+  border-radius: 12px;
+  box-shadow: var(--shadow)
+}
+
+.sugerencias{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 0 2rem;
+}
+
+.sugerencias h3{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.sugerencias h4 {
+  color: var(--complemento1);
+  transition: 0.3s ease-in;
+}
+
+.sugerencias a{
+  text-decoration: none;
+}
+
+.sugerencias h4:hover{
+  color: var(--complemento2);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.5);
+  transform: scale(1.05);
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+}
+
+.article-end {
+  padding: 15vh clamp(2rem, 5vw, 3rem);
+  color: var(--principal);
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center
+}

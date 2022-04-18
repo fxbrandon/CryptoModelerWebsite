@@ -1,0 +1,11 @@
+---
+---
+[
+  {% for post in site.posts %}
+   {
+  "title": "{{ post.title | escape}}",
+  "url": "{{ post.url}}",
+  "alt": "{{ post.altheader}}",
+  "img": "{{sitebase.url}}/img/{{post.hero}}"
+  } {% unless forloop.last %}, {% endunless %} {% endfor %}
+]

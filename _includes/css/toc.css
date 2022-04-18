@@ -1,0 +1,21 @@
+#markdown-toc::before {
+  content: "Contenido:";
+  font-weight: bold;
+}
+
+#markdown-toc ul {
+  list-style: decimal;
+}
+
+#markdown-toc {
+  border: 1px solid #aaa;
+  padding: 1.5em;
+  margin: 1.5rem 0;
+  border-radius: 7px;
+  box-shadow: var(--shadow);
+  list-style: decimal;
+}
+
+#markdown-toc ul li a{
+  text-decoration: none;
+}

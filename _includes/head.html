@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui">
+  <title>{{ page.title}}</title>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
+  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="/feed.xml">
+  {% if page.noindex %}
+  <meta name="robots" content="nofollow">
+  {% else %}
+  <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+  {% endif %}
+  <!-- Codigo json para google en los articulos -->
+  <script type="application/ld+json">
+    {
+       "@context": "https://schema.org",
+       "@type": "NewsArticle",
+       "url": "http://www.cryptomodeler.app",
+       "publisher":{
+          "@type":"Organization",
+          "name":"Crypto Modeler App",
+          "logo":"AQUI DEBO AGREGAR EL LINK DEL LOGO"
+       },
+       "headline": "{{page.title}}",
+       "mainEntityOfPage": "http://www.cryptomodeler.app/news",
+       "articleBody": "{{page.description}}",
+       "image":[
+          "/img/{{page.img1}}",
+          "/img/{{page.img2}}",
+          "/img/{{page.img3}}"
+       ],
+       "datePublished":"{{page.date}}"
+    }
+    </script>
+  <meta name='description'
+    content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+  <meta http-equiv='content-language' content='en_US'>
+  <meta name="language" content="en_US" />
+  <meta name="country" content="US" />
+  <meta name="theme-color" content="#1B1B1B" />
+  <meta name="generator" content="Jekyll 4.2.0" />
+  <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}" />
+  <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}" />
+  <meta name="owner" content="{{site.name}}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{%if page.h1 %}{{ page.h1}}{% else %}{{ page.title}}{% endif %}" />
+  <meta property="og:url" content="{{ page.url}}" />
+  {% if page.jpg %}
+  <meta property="og:image" content="/img/{{ page.jpg}}" />
+  <meta property="og:image:width" content="1080" />
+  <meta property="og:image:height" content="1080" />
+  <meta property="og:image:alt" content="{{page.alt}}">
+  <meta property="og:image:type" content="image/jpg">
+  {% endif %}
+  <meta property="og:site_name" content="{{site.name}}" />
+  <meta property="article:publisher"
+    content="{% if site.facebook %}{{ site.facebook}}{% else %}{{site.name}}{% endif %}" />
+  <meta property="article:author"
+    content="{% if site.facebook %}{{ site.facebook}}{% else %}{{site.name}}{% endif %}" />
+  {% if page.category %}
+  <meta property="article:section" content="{{page.category}}">
+  {% endif %}
+  <meta property="article:published_time" content="{{ page.date}}" />
+  <meta property="article:modified_time" content="{{ page.date}}" />
+  <meta property="article:updated_time" content="{{ page.date}}" />
+  <meta property="og:description"
+    content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}" />
+
+  <!-- TAG GOOGLE -->
+  <!-- TAG GOOGLE END -->
+
+  <style>
+    /* Include style css critical path */
+  </style>
+  <!-- PRELOADS AND LINKS -->
+  <link rel="preload" href="/css/style.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preload" href="/css/fonts/style-fonts.css">
+  <link rel="stylesheet" href="/css/fonts/style-fonts.css">
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-700.woff"
+    type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-700.woff2"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-900.woff"
+    type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-900.woff2"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-regular.woff"
+    type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/montserrat-alternates-v16-latin-regular.woff2"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/source-sans-pro-v19-latin-700.woff"
+    type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/source-sans-pro-v19-latin-700.woff2"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/source-sans-pro-v19-latin-regular.woff"
+    type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/source-sans-pro-v19-latin-regular.woff2"
+    type="font/woff2" crossorigin>
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/img/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#1B1B1B">
+  <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#1B1B1B">
+  <!-- DNS-PREFETCH -->
+  <link rel="dns-prefetch" href="//ajax.googleapis.com">
+  <link rel='dns-prefetch' href='//ajax.cloudflare.com' />
+  <link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+  <link rel='dns-prefetch' href='//www.facebook.com' />
+  <link rel='dns-prefetch' href='//www.google-analytics.com' />
+  <link rel='dns-prefetch' href='//www.google.com' />
+  <link rel='dns-prefetch' href='//www.google.com.co' />
+  <link rel='dns-prefetch' href='//www.googleadservices.com' />
+  <link rel='dns-prefetch' href='//www.googletagmanager.com' />
+</head>

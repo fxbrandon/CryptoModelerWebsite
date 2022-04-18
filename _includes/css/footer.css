@@ -1,0 +1,47 @@
+footer {
+  position: relative;
+  padding: 7rem clamp(4rem, 7vw, 7rem) 4rem;
+  width: 100%;
+  background-color: var(--secundario);
+  display: grid;
+  place-content: center;
+  gap: 2rem;
+  color: white;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 400px));
+}
+
+footer div {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+footer div ul {
+  position: relative;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto;
+  grid-template-areas:
+  "logo google"
+  "logo apple";
+}
+
+footer div ul li {
+  list-style: none;
+}
+
+.footer-logo {
+  grid-area: logo;
+}
+
+.footer-logo img{
+  max-width: 100%;
+}
+
+.google {
+  grid-area: google;
+}
+
+.apple {
+  grid-area: apple;
+}

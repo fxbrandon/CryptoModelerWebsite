@@ -1,0 +1,53 @@
+@media screen and (min-width:767px) {
+  .first-container {
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .home-hero {
+    text-align: left;
+  }
+
+  .about>p {
+    width: 70vw;
+    margin: 0 auto;
+    text-align: justify;
+    letter-spacing: 1.2px;
+  }
+
+  .how-steps li {
+    justify-content: left;
+  }
+
+  .how-steps li p {
+    bottom: 25%;
+    right: 0;
+    width: 50vw;
+    font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
+    padding: 3rem 2.5rem;
+  }
+
+  .parallax div {
+    grid-template-columns: 20% auto;
+  }
+}
+
+@media only screen and (min-width:912px) {
+
+  .home-hero,
+  .img-hero {
+    align-self: center;
+    padding: 0;
+  }
+
+  .articulo {
+    grid-template-columns: 640px auto;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .first-container {
+    height: 60vh;
+  }
+}

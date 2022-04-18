@@ -1,0 +1,34 @@
+baseurl: ''
+url: 'https://crytomodeler.app'
+name: CryptoModeler App
+author: Josep Roure
+# email: info@cryptomodeler.app
+title: Cryptomodeler App
+# yotube: Add your youtube channel
+# facebook: Add your facebook fanpage
+# instagram: Add your instagram profile
+# whatsapp: Add your whatsapp
+# tel: Add your phone number
+
+permalink: pretty
+
+markdown: kramdown
+
+keep_files: [/img]
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
+
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+
+exclude:
+- README.md
