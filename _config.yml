@@ -10,7 +10,7 @@ title: Cryptomodeler App
 # whatsapp: Add your whatsapp
 # tel: Add your phone number
 
-permalink: pretty
+permalink: :slug
 
 markdown: kramdown
 
