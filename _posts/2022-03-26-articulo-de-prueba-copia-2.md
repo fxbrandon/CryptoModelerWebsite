@@ -10,7 +10,7 @@ hero: header.jpg
 altheader: Lorem ipsum dolor sit amet
 img1: app-home.jpg
 img2: bg-cryptos-min.webp
-img3: workflows-crypto.png
+img3: workflows-crypto.webp
 autor: Crypto Modeler
 copyright: Crypto Modeler
 excerpt_separator: <!-- excerpt -->
