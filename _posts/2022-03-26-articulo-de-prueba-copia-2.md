@@ -9,7 +9,7 @@ h1: Este es el artículo de prueba
 hero: header.jpg
 altheader: Lorem ipsum dolor sit amet
 img1: app-home.jpg
-img2: bg-cryptos.png
+img2: bg-cryptos-min.png
 img3: workflows-crypto.png
 autor: Crypto Modeler
 copyright: Crypto Modeler
