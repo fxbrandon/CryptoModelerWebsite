@@ -261,7 +261,7 @@
   height: 240px;
   display: grid;
   gap: 1rem;
-  align-items: left;
+  align-items: center;
   grid-template-columns: auto auto;
   padding: clamp(0.5rem, 5vw, 2rem) clamp(0.5rem, 5vw, 1.5rem);
   border-radius: 12px;
