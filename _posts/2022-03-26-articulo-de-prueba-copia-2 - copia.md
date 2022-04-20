@@ -3,8 +3,8 @@ layout: articulo
 id: 0001
 title: Prueba de artículo completo
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
-category: App News
-tags: [Crypto, Bitcoin, CryptpModeler]
+category: Crypto News
+tags: [Crypto, Bitcoin]
 h1: Este es el artículo de prueba
 hero: header.jpg
 altheader: Lorem ipsum dolor sit amet
