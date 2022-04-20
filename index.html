@@ -250,7 +250,7 @@ download-link: assets/com.pixcile.cryptobiance.apk
     {% for post in site.categories[category_name] %}
     <article class="article-blog">
       <a href="{{ post.url }}" title="{{page.title}}">
-        <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}" align="left"
+        <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
           loading="lazy">
         <h4>{{ post.h1 }}</h4>
         <small>{{post.date | date_to_string}}</small>
