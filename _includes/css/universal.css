@@ -32,7 +32,7 @@ body {
   font-family: var(--fuenteTexto);
   font-size: clamp(16px, (1.1rem + 1vw) * 1, 1.5rem);
   -webkit-font-smoothing: antialiased;
-  background: url("{{'/img/background.svg' | relative_url}}") fixed;
+  background: url("{{'/img/background.png' | relative_url}}") fixed;
   background-repeat: repeat-x;
   background-position: center center;
   background-size: cover;
