@@ -134,7 +134,7 @@
 }
 
 .parallax {
-  background-image: url("{{site.baseurl}}/img/bg-cryptos-min.png");
+  background-image: url("{{site.baseurl}}/img/bg-cryptos-min.webp");
   background-size: cover;
   background-attachment: fixed;
 }
