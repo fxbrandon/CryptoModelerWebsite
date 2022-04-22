@@ -86,7 +86,6 @@
   box-sizing: border-box;
   width: min(80vw, 960px);
   box-shadow: var(--shadow);
-  place-content: center;
 }
 
 .how ul li:nth-child(2) p {
