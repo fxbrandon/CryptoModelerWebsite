@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-04-18T10:10:15-05:00</updated>
+     <updated>2022-04-26T08:33:07-05:00</updated>
      <title type="html">Cryptomodeler App</title>
      <author>
        <name>CryptoModeler App</name>
@@ -13,65 +13,22 @@
 
  
  <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/blockchain/2022/04/06/articulo-de-prueba-2-copia-2-copia-1/"/>
-   <id>http://localhost:4000/blockchain/2022/04/06/articulo-de-prueba-2-copia-2-copia-1</id>
-   <updated>2022-04-06T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/bitcoins/2022/04/06/articulo-de-prueba/"/>
-   <id>http://localhost:4000/bitcoins/2022/04/06/articulo-de-prueba</id>
-   <updated>2022-04-06T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/bitcoins/2022/04/05/articulo-de-prueba-2/"/>
-   <id>http://localhost:4000/bitcoins/2022/04/05/articulo-de-prueba-2</id>
-   <updated>2022-04-05T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/news/2022/04/04/articulo-de-prueba-2-copia-2/"/>
-   <id>http://localhost:4000/news/2022/04/04/articulo-de-prueba-2-copia-2</id>
-   <updated>2022-04-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/bitcoins/2022/04/03/articulo-de-prueba-2-copia-2-copia-2/"/>
-   <id>http://localhost:4000/bitcoins/2022/04/03/articulo-de-prueba-2-copia-2-copia-2</id>
-   <updated>2022-04-03T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/news/2022/04/02/articulo-de-prueba-2-copia/"/>
-   <id>http://localhost:4000/news/2022/04/02/articulo-de-prueba-2-copia</id>
-   <updated>2022-04-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
- </entry>
- 
- <entry>
-   <title>Lorem ipsum dolor sit amet</title>
-   <link href="http://localhost:4000/bitcoins/2022/03/27/articulo-de-prueba-copia/"/>
-   <id>http://localhost:4000/bitcoins/2022/03/27/articulo-de-prueba-copia</id>
-   <updated>2022-03-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/app-home.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
+   <title>Prueba de artículo completo</title>
+   <link href="http://localhost:4000/bitcoin-retests-40k-after-stocks-sell-off-meets-fed-balance-sheet-bust"/>
+   <id>http://localhost:4000/bitcoin-retests-40k-after-stocks-sell-off-meets-fed-balance-sheet-bust</id>
+   <updated>2022-03-26T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Macro-induced mayhem costs Bitcoin bulls dearly as Ethereum also loses key $3,000 support.&lt;/p&gt;
+
+&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.cointelegraph.com/images/960_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDQvYTAzZTUzNDQtOGQxOC00NGEwLTgzZWYtZjRmZDg0MzUyYmM4LmpwZw==.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Prueba de artículo completo</title>
-   <link href="http://localhost:4000/blockchain/2022/03/26/articulo-de-prueba-copia-2/"/>
-   <id>http://localhost:4000/blockchain/2022/03/26/articulo-de-prueba-copia-2</id>
+   <link href="http://localhost:4000/articulo-de-prueba-copia-2-copia"/>
+   <id>http://localhost:4000/articulo-de-prueba-copia-2 - copia</id>
    <updated>2022-03-26T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/bg-cryptos-min.webp&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro!...</content>
  </entry>
