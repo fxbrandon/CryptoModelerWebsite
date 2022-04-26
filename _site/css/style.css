@@ -539,7 +539,7 @@ nav li {
 }
 
 .parallax {
-  background-image: url("/img/bg-cryptos.png");
+  background-image: url("/img/bg-cryptos-min.webp");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -1076,7 +1076,7 @@ textarea.form__input {
   .about>p {
     width: 70vw;
     margin: 0 auto;
-    text-align: justify;
+    text-align: center;
     letter-spacing: 1.2px;
   }
 
