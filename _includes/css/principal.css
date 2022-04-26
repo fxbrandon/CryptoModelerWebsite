@@ -27,7 +27,7 @@
   align-items: center;
   padding: 7vh 5vw;
   box-shadow: var(--shadow);
-  max-width: 320px;
+  max-width: 520px;
 }
 
 .features li img {
@@ -36,7 +36,6 @@
 }
 
 .features li p {
-  font-size: 16px;
   text-align: center;
 }
 

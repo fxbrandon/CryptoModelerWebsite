@@ -26,6 +26,7 @@
     width: 50vw;
     font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
     padding: 3rem 2.5rem;
+    text-align: center;
   }
 
   .parallax div {
