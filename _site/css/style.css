@@ -432,7 +432,7 @@ nav li {
   align-items: center;
   padding: 7vh 5vw;
   box-shadow: var(--shadow);
-  max-width: 320px;
+  max-width: 520px;
 }
 
 .features li img {
@@ -441,7 +441,6 @@ nav li {
 }
 
 .features li p {
-  font-size: 16px;
   text-align: center;
 }
 
@@ -1090,6 +1089,7 @@ textarea.form__input {
     width: 50vw;
     font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
     padding: 3rem 2.5rem;
+    text-align: center;
   }
 
   .parallax div {
