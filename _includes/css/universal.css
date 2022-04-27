@@ -220,6 +220,7 @@ SVG Icons - svgicons.sparkk.fr
   transition: background-color 0.2s linear;
   display: flex;
   align-content: center;
+  
 }
 
 .nav-container a {
@@ -252,6 +253,7 @@ SVG Icons - svgicons.sparkk.fr
   border-radius: 0 0 0 50%;
   box-shadow: var(--shadow);
   z-index: 2;
+  
 }
 
 .hero-home {

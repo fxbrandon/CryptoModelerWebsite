@@ -220,6 +220,7 @@ SVG Icons - svgicons.sparkk.fr
   transition: background-color 0.2s linear;
   display: flex;
   align-content: center;
+  
 }
 
 .nav-container a {
@@ -252,6 +253,7 @@ SVG Icons - svgicons.sparkk.fr
   border-radius: 0 0 0 50%;
   box-shadow: var(--shadow);
   z-index: 2;
+  
 }
 
 .hero-home {
@@ -575,6 +577,7 @@ nav li {
   padding: 7rem clamp(1rem, 5vw, 7rem);
   color: white;
   align-items: center;
+  background-color: rgba(0, 0, 0, 0.75);
 }
 
 .pricing h2 {
@@ -633,6 +636,8 @@ nav li {
   justify-content: center;
   padding: 7rem clamp(1rem, 5vw, 7rem);
   color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+
 }
 
 .blog-intro h2 {
