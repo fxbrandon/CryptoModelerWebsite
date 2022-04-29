@@ -220,7 +220,7 @@ SVG Icons - svgicons.sparkk.fr
   transition: background-color 0.2s linear;
   display: flex;
   align-content: center;
-  
+
 }
 
 .nav-container a {
@@ -253,7 +253,7 @@ SVG Icons - svgicons.sparkk.fr
   border-radius: 0 0 0 50%;
   box-shadow: var(--shadow);
   z-index: 2;
-  
+
 }
 
 .hero-home {
@@ -741,7 +741,7 @@ nav li {
 }
 
 .faq {
-  background-color: var(--complemento1);
+  background-color: var(--complemento2);
   color: white;
   display: grid;
   place-content: center;
@@ -750,6 +750,7 @@ nav li {
 
 .faq h2 {
   margin-bottom: 3rem;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
 ul.jekyllcodex_accordion {
@@ -775,6 +776,8 @@ ul.jekyllcodex_accordion li label {
   cursor: pointer;
   padding: 0.75rem 2.4rem 0.75rem 0;
   margin: 0;
+  color: var(--principal);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
 ul.jekyllcodex_accordion li div {
@@ -825,6 +828,7 @@ footer div {
 footer div ul {
   position: relative;
   display: grid;
+  place-content: center;
   grid-template-columns: 50% 50%;
   grid-template-rows: auto;
   grid-template-areas:
@@ -1132,6 +1136,10 @@ textarea.form__input {
 
   .articulo {
     grid-template-columns: 640px auto;
+  }
+
+  footer div {
+    text-align: center;
   }
 }
 
