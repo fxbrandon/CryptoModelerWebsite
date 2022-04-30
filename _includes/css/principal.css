@@ -181,9 +181,7 @@
   color: white;
 }
 
-.parallax .binancepay{
-  flex-direction: row;
-}
+
 
 .parallax .binancepay p{
   width: min(90vw, 480px);
