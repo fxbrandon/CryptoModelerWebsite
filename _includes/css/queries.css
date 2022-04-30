@@ -46,6 +46,10 @@
   footer div {
     text-align: center;
   }
+
+  .parallax .binancepay{
+    flex-direction: row;
+  }
 }
 
 @media only screen and (min-width: 1024px) {
