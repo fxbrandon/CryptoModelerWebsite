@@ -220,7 +220,7 @@ SVG Icons - svgicons.sparkk.fr
   transition: background-color 0.2s linear;
   display: flex;
   align-content: center;
-  
+
 }
 
 .nav-container a {
@@ -253,7 +253,7 @@ SVG Icons - svgicons.sparkk.fr
   border-radius: 0 0 0 50%;
   box-shadow: var(--shadow);
   z-index: 2;
-  
+
 }
 
 .hero-home {
@@ -540,34 +540,52 @@ nav li {
 }
 
 .parallax {
-  background-image: url("/img/bg-cryptos-min.webp");
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-.parallax div {
+  position: relative;
+  background-color: var(--blanco);
   display: grid;
+}
+
+.binancepay {
+  position: relative;
+  background-color: var(--secundario);
+  display: grid;
+  gap: 3rem;
+  justify-items: center;
+  padding: 12rem 2rem 5rem;
+  border-radius: 60% 34% 10% 10% / 20% 12% 0% 0%;
+  color: var(--principal);
+}
+
+.binancepay h2{
+  text-transform: uppercase;
+  font-size: clamp(26px, (2rem + 1vw) * 1.25, 3rem);
+  font-family: var(--fuenteTexto);
+  width: min(80vw, 300px);
+}
+
+.binancepay h2 span{
+  font-weight: 300;
+}
+
+.binancepay img{
+  max-width: min(90vw, 300px);
+}
+
+.binancepay lord-icon{
+  width: 300px;
+  height: 300px;
+}
+
+.binancepay div{
+  display: flex;
+  flex-direction: column;
   gap: 1rem;
-  place-content: center;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  width: 100%;
-  padding: 7rem 2rem;
 }
 
-.parallax div lord-icon {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-
-.parallax p {
-  justify-self: center;
-  width: min(80vw, 60vw);
-  font-size: 3rem;
-  font-weight: 700;
-  color: var(--blanco);
-  text-shadow: 1px 1px rgba(0, 0, 0, 0.04), 2px 2px rgba(0, 0, 0, 0.04), 3px 3px rgba(0, 0, 0, 0.04), 4px 4px rgba(0, 0, 0, 0.04), 0.125rem 0.125rem rgba(0, 0, 0, 0.04), 6px 6px rgba(0, 0, 0, 0.04), 7px 7px rgba(0, 0, 0, 0.04), 8px 8px rgba(0, 0, 0, 0.04), 9px 9px rgba(0, 0, 0, 0.04), 0.3125rem 0.3125rem rgba(0, 0, 0, 0.04), 11px 11px rgba(0, 0, 0, 0.04), 12px 12px rgba(0, 0, 0, 0.04), 13px 13px rgba(0, 0, 0, 0.04), 14px 14px rgba(0, 0, 0, 0.04), 0.625rem 0.625rem rgba(0, 0, 0, 0.04), 16px 16px rgba(0, 0, 0, 0.04), 17px 17px rgba(0, 0, 0, 0.04), 18px 18px rgba(0, 0, 0, 0.04), 19px 19px rgba(0, 0, 0, 0.04), 1.25rem 1.25rem rgba(0, 0, 0, 0.04);
+.binancepay p{
+  text-align: center;
+  width: min(80vw, 540px);
 }
 
 .pricing {
@@ -578,6 +596,7 @@ nav li {
   color: white;
   align-items: center;
   background-color: rgba(0, 0, 0, 0.75);
+  text-align: center;
 }
 
 .pricing h2 {
@@ -721,16 +740,17 @@ nav li {
   top: 0;
 }
 
-.faq{
-  background-color: var(--complemento1);
+.faq {
+  background-color: var(--complemento2);
   color: white;
   display: grid;
   place-content: center;
   padding: 7rem 0;
 }
 
-.faq h2{
+.faq h2 {
   margin-bottom: 3rem;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
 ul.jekyllcodex_accordion {
@@ -756,6 +776,8 @@ ul.jekyllcodex_accordion li label {
   cursor: pointer;
   padding: 0.75rem 2.4rem 0.75rem 0;
   margin: 0;
+  color: var(--principal);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
 ul.jekyllcodex_accordion li div {
@@ -806,6 +828,7 @@ footer div {
 footer div ul {
   position: relative;
   display: grid;
+  place-content: center;
   grid-template-columns: 50% 50%;
   grid-template-rows: auto;
   grid-template-areas:
@@ -1097,9 +1120,6 @@ textarea.form__input {
     text-align: center;
   }
 
-  .parallax div {
-    grid-template-columns: 20% auto;
-  }
 }
 
 @media only screen and (min-width:912px) {
@@ -1110,13 +1130,36 @@ textarea.form__input {
     padding: 0;
   }
 
+  .binancepay {
+    padding: 7rem 15vw;
+  }
+
   .articulo {
     grid-template-columns: 640px auto;
+  }
+
+  footer div {
+    text-align: center;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   .first-container {
     height: 60vh;
+  }
+
+  .binancepay {
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
+  .binancepay h2,
+  .binancepay img:nth-child(2),
+  .binancepay p {
+    grid-column: span 2;
+  }
+
+  .binancepay {
+    padding: 12rem 25vw;
   }
 }

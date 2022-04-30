@@ -29,9 +29,6 @@
     text-align: center;
   }
 
-  .parallax div {
-    grid-template-columns: 20% auto;
-  }
 }
 
 @media only screen and (min-width:912px) {
@@ -42,13 +39,36 @@
     padding: 0;
   }
 
+  .binancepay {
+    padding: 7rem 15vw;
+  }
+
   .articulo {
     grid-template-columns: 640px auto;
+  }
+
+  footer div {
+    text-align: center;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   .first-container {
     height: 60vh;
+  }
+
+  .binancepay {
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
+  .binancepay h2,
+  .binancepay img:nth-child(2),
+  .binancepay p {
+    grid-column: span 2;
+  }
+
+  .binancepay {
+    padding: 12rem 25vw;
   }
 }
