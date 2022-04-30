@@ -39,10 +39,6 @@
     padding: 0;
   }
 
-  .binancepay {
-    padding: 7rem 15vw;
-  }
-
   .articulo {
     grid-template-columns: 640px auto;
   }
@@ -57,18 +53,4 @@
     height: 60vh;
   }
 
-  .binancepay {
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-  }
-
-  .binancepay h2,
-  .binancepay img:nth-child(2),
-  .binancepay p {
-    grid-column: span 2;
-  }
-
-  .binancepay {
-    padding: 12rem 25vw;
-  }
 }
