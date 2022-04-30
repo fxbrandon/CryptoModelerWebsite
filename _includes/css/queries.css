@@ -29,6 +29,20 @@
     text-align: center;
   }
 
+  footer div,
+  footer small {
+    text-align: center;
+  }
+
+  footer small{
+    grid-column: span 3;
+  }
+
+  .google,
+  .apple{
+    max-width: 60%;
+  }
+
 }
 
 @media only screen and (min-width:912px) {
@@ -43,11 +57,8 @@
     grid-template-columns: 640px auto;
   }
 
-  footer div {
-    text-align: center;
-  }
 
-  .parallax .binancepay{
+  .parallax .binancepay {
     flex-direction: row;
   }
 }
@@ -56,5 +67,7 @@
   .first-container {
     height: 60vh;
   }
+
+  
 
 }
