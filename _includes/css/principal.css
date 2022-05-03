@@ -190,7 +190,7 @@
 .pricing {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 2rem;
   padding: 7rem clamp(1rem, 5vw, 7rem);
   color: white;
   align-items: center;
@@ -208,43 +208,6 @@
 
 .pricing .features li p {
   margin: 0.5rem 0;
-}
-
-.rrss {
-  background-color: var(--secundario);
-  padding: 7rem clamp(1rem, 5vw, 7rem) 1rem;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border-radius: 0 0 5% 34%;
-}
-
-.rrss h2 {
-  color: var(--principal);
-  margin-bottom: 3rem;
-  font-weight: 900;
-}
-
-.rrss div {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: 40% 60%;
-  align-items: center;
-  width: min(90vw, 960px);
-  color: white;
-}
-
-.rrss svg {
-  width: 100%;
-}
-
-.redes {
-  position: relative;
-  display: flex;
-  justify-content: space-around;
-  margin-top: 2rem;
 }
 
 .cta {
