@@ -73,6 +73,7 @@ Any illegal activities should not be conducted on the Crypto Modeler platform. N
 No users should try to use automated services to post spam messages or images, or to try to repeatedly attack our system with the intent of crashing the service.
 
 ### Plagiarism
+
 We love to see users sharing information. If any user wants to share opinions or articles that were written by other parties or authors, please make sure you state clearly where the sources came from. Please do not directly copy and paste other people’s intellectual property on our platform without proper citations.
 
 ## Personal Information
@@ -155,4 +156,4 @@ Crypto Modeler may periodically update this policy as deemed necessary. You may 
 
 Any questions about this Privacy Policy should be addressed to this e-mail address: legal@Crypto Modeler.com.
 
-**Effective Date: January 17, 2022.**
+>Effective Date: January 17, 2022

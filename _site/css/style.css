@@ -596,7 +596,7 @@ nav li {
 .pricing {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 2rem;
   padding: 7rem clamp(1rem, 5vw, 7rem);
   color: white;
   align-items: center;
@@ -614,43 +614,6 @@ nav li {
 
 .pricing .features li p {
   margin: 0.5rem 0;
-}
-
-.rrss {
-  background-color: var(--secundario);
-  padding: 7rem clamp(1rem, 5vw, 7rem) 1rem;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border-radius: 0 0 5% 34%;
-}
-
-.rrss h2 {
-  color: var(--principal);
-  margin-bottom: 3rem;
-  font-weight: 900;
-}
-
-.rrss div {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: 40% 60%;
-  align-items: center;
-  width: min(90vw, 960px);
-  color: white;
-}
-
-.rrss svg {
-  width: 100%;
-}
-
-.redes {
-  position: relative;
-  display: flex;
-  justify-content: space-around;
-  margin-top: 2rem;
 }
 
 .cta {
@@ -947,9 +910,65 @@ footer div ul li {
   box-shadow: var(--shadow);
 }
 
+.contact-home{
+  position: relative;
+  width: 100%;
+  padding: 70px clamp(2rem, 10vw, 5rem);
+  background-color: var(--secundario);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+  z-index: 2;
+  border-radius: 0% 0% 30% 52% / 10% 10% 49% 4%;
+}
+
+.rrss {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.rrss div {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  background-color: var(--complemento2);
+  color: white;
+  padding: 7rem clamp(1rem, 5vw, 7rem) 1rem;
+  border-radius: 0 0 5% 34%;
+}
+
+.rrss div h2 {
+  color: var(--principal);
+  margin-bottom: 3rem;
+  font-weight: 900;
+  grid-column: span 2;
+}
+
+.rrss svg {
+  width: 100%;
+}
+
+.redes {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
 .contact{
-  background-color: var(--blanco);
+  background-color: rgba(0, 0, 0, 0.7);
   padding: 7rem clamp(1rem, 5vw, 7rem);
+  color: white;
 }
 
 .form{
