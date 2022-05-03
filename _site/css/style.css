@@ -913,7 +913,7 @@ footer div ul li {
 .contact-home{
   position: relative;
   width: 100%;
-  padding: 70px clamp(2rem, 10vw, 5rem);
+  padding: 70px clamp(2rem, 10vw, 5rem) 0;
   background-color: var(--secundario);
   color: white;
   display: flex;
@@ -923,7 +923,6 @@ footer div ul li {
   text-align: center;
   gap: 1.5rem;
   z-index: 2;
-  border-radius: 0% 0% 30% 52% / 10% 10% 49% 4%;
 }
 
 .rrss {
