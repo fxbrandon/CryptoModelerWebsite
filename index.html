@@ -257,31 +257,6 @@ download-link: assets/com.pixcile.cryptobiance.apk
   </div>
 </section> -->
 
-<section class="blog-intro" id="blog">
-  <h2>Latest crypto news</h2>
-  <p>In cryptocurrencies every day there are changes, novelties and many opportunities. It is a world that you are in
-    the right time to enter.</p>
-  <p>For this reason, we prepare the content of our news section. <strong>Find out with us everything related to the
-      world of cryptocurrencies and the blockchain.</strong> In addition, we will give you many tips and news for CryptoModeler, to help you achieve the best results. Let's read!</p>
-  <div>
-    {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h3 id="{{ category_name}}">{{ category_name | capitalize}}
-    </h3>
-    {% for post in site.categories[category_name] %}
-    <article class="article-blog">
-      <a href="{{ post.url }}" title="{{page.title}}">
-        <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
-          loading="lazy">
-        <h4>{{ post.h1 }}</h4>
-        <small>{{post.date | date_to_string}}</small>
-      </a>
-    </article>
-    {% endfor %}
-    {% endfor %}
-  </div>
-  <!-- <h2>Find your favorite topic here</h2> -->
-  <!-- {% include search.html %} -->
 </section>
 {% include cta.html %}
 <div style="height: 150px; overflow: hidden; background-color: var(--secundario);"><svg viewBox="0 0 500 150"
@@ -307,12 +282,3 @@ download-link: assets/com.pixcile.cryptobiance.apk
 </section>
 {% include footer.html %}
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G0RL76MLCZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-G0RL76MLCZ');
-</script>

@@ -8,29 +8,29 @@ description: Conditions, privacy and all legal terms about the use of our websit
 
 ### No Investment Advice
 
-The information provided on this website does not constitute investment advice, financial advice, trading advice, or any other sort of advice and you should not treat any of the website's content as such. CoinMarketCap does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
+The information provided on this website does not constitute investment advice, financial advice, trading advice, or any other sort of advice and you should not treat any of the website's content as such. Crypto Modeler does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
 
 ### Accuracy of Information
 
-CoinMarketCap will strive to ensure accuracy of information listed on this website although it will not hold any responsibility for any missing or wrong information. CoinMarketCap provides all information as is. You understand that you are using any and all information available here at your own risk.
+Crypto Modeler will strive to ensure accuracy of information listed on this website although it will not hold any responsibility for any missing or wrong information. Crypto Modeler provides all information as is. You understand that you are using any and all information available here at your own risk.
 
 ### Non Endorsement
 
-The appearance of third party advertisements and hyperlinks on CoinMarketCap does not constitute an endorsement, guarantee, warranty, or recommendation by CoinMarketCap. Do conduct your own due diligence before deciding to use any third party services.
+The appearance of third party advertisements and hyperlinks on Crypto Modeler does not constitute an endorsement, guarantee, warranty, or recommendation by Crypto Modeler. Do conduct your own due diligence before deciding to use any third party services.
 
 ### Affiliate Disclosure
 
-CoinMarketCap may receive compensation for affiliate links. This compensation may be in the form of money or services and could exist without any action from a site visitor. Should you perform activities in relation to an affiliate link, it is understood that some form of compensation might be made to CoinMarketCap. For example, if you click on an affiliate link, and sign up and trade on an exchange, CoinMarketCap may receive compensation. Each affiliate link is clearly marked with an icon next to it.
+Crypto Modeler may receive compensation for affiliate links. This compensation may be in the form of money or services and could exist without any action from a site visitor. Should you perform activities in relation to an affiliate link, it is understood that some form of compensation might be made to Crypto Modeler. For example, if you click on an affiliate link, and sign up and trade on an exchange, Crypto Modeler may receive compensation. Each affiliate link is clearly marked with an icon next to it.
 
 ## Community Rules
 
-CoinMarketCap aims to provide a community environment where all of our users can share their opinions freely and learn from each other. Everyone is welcome to come to our site and provide insightful, delightful and informative thoughts, but we also hope to provide a space where everyone respects each other without spam, abuse or promotional messages. We want all users to feel comfortable and safe being in the space. Therefore, we are setting up some community rules to define what is acceptable and what is not — all users are expected to follow our community guidelines!
+Crypto Modeler aims to provide a community environment where all of our users can share their opinions freely and learn from each other. Everyone is welcome to come to our site and provide insightful, delightful and informative thoughts, but we also hope to provide a space where everyone respects each other without spam, abuse or promotional messages. We want all users to feel comfortable and safe being in the space. Therefore, we are setting up some community rules to define what is acceptable and what is not — all users are expected to follow our community guidelines!
 
-Whoever fails to follow our rules will have their messages deleted, and further action taken if necessary. CoinMarketCap could temporarily or permanently suspend accounts from being able to post, comment, repost or share any messages from the CoinMarketCap discussion feature if community rules are repeatedly violated.
+Whoever fails to follow our rules will have their messages deleted, and further action taken if necessary. Crypto Modeler could temporarily or permanently suspend accounts from being able to post, comment, repost or share any messages from the Crypto Modeler discussion feature if community rules are repeatedly violated.
 
 ### Abuse
 
-CoinMarketCap users are from all over the world and have different backgrounds in languages, religions, cultures, etc. There are often times that users might disagree with each other — which can be good for stimulating creativity or representing the diversity of the community! However, if the wording or images in the posted messages are used for attacking other parties, that breaks our community guidelines. Examples of this could be related to:
+Crypto Modeler users are from all over the world and have different backgrounds in languages, religions, cultures, etc. There are often times that users might disagree with each other — which can be good for stimulating creativity or representing the diversity of the community! However, if the wording or images in the posted messages are used for attacking other parties, that breaks our community guidelines. Examples of this could be related to:
 
 ### Violence
 
@@ -38,11 +38,11 @@ Users are not allowed to show any intention to threaten a particular user or a g
 
 ### Insults
 
-No one in the CoinMarketCap community should be insulted because of holding different opinions, or in fact, for any reason. Users should not post any insulting language or images on our platform to target one or a group of users.
+No one in the Crypto Modeler community should be insulted because of holding different opinions, or in fact, for any reason. Users should not post any insulting language or images on our platform to target one or a group of users.
 
 ### Harassment
 
-Any form of harassment, including (but not limited to) harassment based on sex, race, gender identification, age, occupation, religion, national origins, disablity, marital status, crypto beliefs or political beliefs is prohibited. Any unwanted sexual advances, adult media, sexual discussion or solicitation of sexual acts are also considered to be a form of harassment which is not allowed on the CoinMarketCap platform.
+Any form of harassment, including (but not limited to) harassment based on sex, race, gender identification, age, occupation, religion, national origins, disablity, marital status, crypto beliefs or political beliefs is prohibited. Any unwanted sexual advances, adult media, sexual discussion or solicitation of sexual acts are also considered to be a form of harassment which is not allowed on the Crypto Modeler platform.
 
 ### Vulgarity
 
@@ -50,7 +50,7 @@ Our system stops you from posting inappropriate language or images; however, any
 
 ### Promotional Messages
 
-We understand that a lot of our community members are involved in cryptocurrency or blockchain businesses and would love to introduce new services or highlight your brilliant products to all other users. We encourage you to share ideas, product knowledge, and new technology, but please do not directly post messages regarding discounts or sales on our platform. CoinMarketCap reserves the right to review or delete any promotional posts which we think could be inappropriate to our community users.
+We understand that a lot of our community members are involved in cryptocurrency or blockchain businesses and would love to introduce new services or highlight your brilliant products to all other users. We encourage you to share ideas, product knowledge, and new technology, but please do not directly post messages regarding discounts or sales on our platform. Crypto Modeler reserves the right to review or delete any promotional posts which we think could be inappropriate to our community users.
 
 ### Spams
 
@@ -58,15 +58,15 @@ We hope everyone on our platform will have a comfortable space to view different
 
 ### Scams
 
-Any fraudulent acts or messages are not allowed on the CoinMarketCap platform. If any user posts messages or images which indicate potentially fraudulent activities, CoinMarketCap has the right to delete the message or ban the usage of our community features for whoever posted the messages.
+Any fraudulent acts or messages are not allowed on the Crypto Modeler platform. If any user posts messages or images which indicate potentially fraudulent activities, Crypto Modeler has the right to delete the message or ban the usage of our community features for whoever posted the messages.
 
 ### Manipulation
 
-Many users on CoinMarketCap often seek investment ideas, so it’s important to provide accurate and real information on the platform. No user should manipulate or provide incorrect information to other users, spread rumors about a particular project or coin, or use community power to cheerlead or bash any project and try to drive the opinion of a certain coin or project. Users shall not create multiple accounts to post similar messages or opinions either.
+Many users on Crypto Modeler often seek investment ideas, so it’s important to provide accurate and real information on the platform. No user should manipulate or provide incorrect information to other users, spread rumors about a particular project or coin, or use community power to cheerlead or bash any project and try to drive the opinion of a certain coin or project. Users shall not create multiple accounts to post similar messages or opinions either.
 
 ## Illegal
 
-Any illegal activities should not be conducted on the CoinMarketCap platform. No users should post information about selling or buying any illegal goods or services, or reveal any unlawful actions.
+Any illegal activities should not be conducted on the Crypto Modeler platform. No users should post information about selling or buying any illegal goods or services, or reveal any unlawful actions.
 
 ### Bots
 
@@ -81,9 +81,9 @@ It's important to protect everyone's personal information including yours! If yo
 
 ## Privacy Policy
 
-At CoinMarketCap, we’re strongly committed to protecting and respecting your privacy.
+At Crypto Modeler, we’re strongly committed to protecting and respecting your privacy.
 
-This Privacy Policy (“Privacy Policy”) covers your access and use of this Website, coinmarketcap.com (the “Website”), as well as associated content, software, and mobile applications (collectively, the “Service”).
+This Privacy Policy (“Privacy Policy”) covers your access and use of this Website, Crypto Modeler.com (the “Website”), as well as associated content, software, and mobile applications (collectively, the “Service”).
 
 This Privacy Policy explains when and why and how we collect and use personal information about people who visit our Website or use our Services, the conditions under which we may disclose your personal information to others, and how we keep your personal information secure.
 
@@ -91,13 +91,13 @@ We may change this Privacy Policy from time to time so please check this page oc
 
 ### What Information Do We Collect?
 
-CoinMarketCap (“CoinMarketCap”, “we” or “us”) collects (a) the e-mail addresses of those who communicate with us via email; (b) aggregate information concerning what pages users access or visit; (c) information given by the user (such as survey information and/or site registrations); and (d) information related to your use of the Website and/or the mobile application, including IP address, Device ID, geographic location, and date and time of your request; (e) any other information that you might provide voluntarily. We might also collect your email address and your Wallet ID if you decide to participate to one of our campaigns.
+Crypto Modeler (“Crypto Modeler”, “we” or “us”) collects (a) the e-mail addresses of those who communicate with us via email; (b) aggregate information concerning what pages users access or visit; (c) information given by the user (such as survey information and/or site registrations); and (d) information related to your use of the Website and/or the mobile application, including IP address, Device ID, geographic location, and date and time of your request; (e) any other information that you might provide voluntarily. We might also collect your email address and your Wallet ID if you decide to participate to one of our campaigns.
 
 ### How Do We Use the Information?
 
-CoinMarketCap uses collected information for the following purposes:
+Crypto Modeler uses collected information for the following purposes:
 
-To fulfill a contract or take steps linked to a contract such as processing your registration on our Website or sending you information about changes to our terms or policies; Where it is necessary for purposes which are in CoinMarketCap’s legitimate interests such as (a) to provide the information or content you have requested; (b) to contact you about our programs, products, features or services; (c) to improve our services and for internal business purposes such as identification and authentication or customer service, portfolio tracking and user preference syncing between devices; (d) to ensure the security of our Website, by trying to prevent unauthorized or malicious activities; (e) to enforce compliance with our Terms of Use and other policies; (f) to help other organizations (such as copyright owners) to enforce their rights; and (g) to tailor content, advertisements, and offers for you or for other purposes disclosed at the time of collection.
+To fulfill a contract or take steps linked to a contract such as processing your registration on our Website or sending you information about changes to our terms or policies; Where it is necessary for purposes which are in Crypto Modeler’s legitimate interests such as (a) to provide the information or content you have requested; (b) to contact you about our programs, products, features or services; (c) to improve our services and for internal business purposes such as identification and authentication or customer service, portfolio tracking and user preference syncing between devices; (d) to ensure the security of our Website, by trying to prevent unauthorized or malicious activities; (e) to enforce compliance with our Terms of Use and other policies; (f) to help other organizations (such as copyright owners) to enforce their rights; and (g) to tailor content, advertisements, and offers for you or for other purposes disclosed at the time of collection.
 
 If you do not wish to receive marketing information about our programs, products, features or services, you can opt-out of marketing communications.
 Where you give us consent, such as (a) where you ask us to send marketing information to you via a medium where we need your consent, including alerts via mobile push notifications; (b) where you give us consent to place cookies and to use similar technologies; and (c) on other occasions where we ask you for consent, for any other purpose that might arise.
@@ -113,7 +113,7 @@ It is necessary to share information in order to investigate, prevent, or take a
 We provide personal information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf and provide us with services. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
 We provide such information to third parties who have entered into non-disclosure agreements with us.
 
-We provide such information to a company controlled by, or under common control with, CoinMarketCap for any purpose permitted by this Privacy Policy.
+We provide such information to a company controlled by, or under common control with, Crypto Modeler for any purpose permitted by this Privacy Policy.
 
 We may aggregate, anonymize, and publish data for statistical and research purposes only. For example, we may compile and share information related to the popularity of certain products tracked by users. In any such instance, the information will not be able to be traced back to any individual.
 
@@ -129,7 +129,7 @@ We retain information as long as it is necessary to provide the Services request
 
 ### Children
 
-We do not knowingly collect information from children under the age of 18. Children aged 17 or younger should not submit any personal information without the permission of their parents or guardians. By using the CoinMarketCap service, you are representing that you are at least 18 years old.
+We do not knowingly collect information from children under the age of 18. Children aged 17 or younger should not submit any personal information without the permission of their parents or guardians. By using the Crypto Modeler service, you are representing that you are at least 18 years old.
 
 ### EU and EEA Users’ Rights
 
@@ -141,7 +141,7 @@ You have the right to access your personal data and, if necessary, have it amend
 
 Should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority, although we hope that we can assist with any queries or concerns you may have about our use of your personal data.
 
-CoinMarketCap may have collected, used, and shared, for business purposes, personal information about you as described in this Privacy Policy. Each category of data may be used by CoinMarketCap or shared with third parties also as described in this Privacy Policy. Residents of California have the right to request access to and deletion of the information CoinMarketCap holds about them. Such requests may be submitted by email to legal@coinmarketcap.com or by mail to CoinMarketCap OpCo LLC. CoinMarketCap will not sell your personal information without your consent. CoinMarketCap will not discriminate against you for exercising your rights under CCPA. Specifically, we will not:
+Crypto Modeler may have collected, used, and shared, for business purposes, personal information about you as described in this Privacy Policy. Each category of data may be used by Crypto Modeler or shared with third parties also as described in this Privacy Policy. Residents of California have the right to request access to and deletion of the information Crypto Modeler holds about them. Such requests may be submitted by email to legal@Crypto Modeler.com or by mail to Crypto Modeler OpCo LLC. Crypto Modeler will not sell your personal information without your consent. Crypto Modeler will not discriminate against you for exercising your rights under CCPA. Specifically, we will not:
 
 * Deny access to our Services;
 * Charge a different rate for the use of our Services; or
@@ -149,10 +149,10 @@ CoinMarketCap may have collected, used, and shared, for business purposes, perso
 
 ### Changes
 
-CoinMarketCap may periodically update this policy as deemed necessary. You may access this Policy at any time through our website.
+Crypto Modeler may periodically update this policy as deemed necessary. You may access this Policy at any time through our website.
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to this e-mail address: legal@coinmarketcap.com.
+Any questions about this Privacy Policy should be addressed to this e-mail address: legal@Crypto Modeler.com.
 
 **Effective Date: January 17, 2022.**
