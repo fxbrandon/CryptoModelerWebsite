@@ -13,49 +13,22 @@
   z-index: 2;
 }
 
-.rrss {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  background-color: rgba(0, 0, 0, 0.7);
-
+.contact{
+  background-color: white;
+  padding: 7rem clamp(1rem, 5vw, 7rem);
 }
 
-.rrss div {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: 1fr 2fr;
-  align-items: center;
+.intro-contact{
   background-color: var(--complemento2);
   color: white;
-  padding: 7rem clamp(1rem, 5vw, 7rem) 1rem;
-  border-radius: 0 0 5% 34%;
+  display: grid;
+  place-content: center;
+  padding: 5rem 0;
 }
 
-.rrss div h2 {
-  color: var(--principal);
-  margin-bottom: 3rem;
-  font-weight: 900;
-  grid-column: span 2;
-}
-
-.rrss svg {
-  width: 100%;
-}
-
-.redes {
-  position: relative;
-  display: flex;
-  justify-content: space-around;
-  margin-top: 2rem;
-}
-
-.contact{
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 7rem clamp(1rem, 5vw, 7rem);
-  color: white;
+.intro-contact p{
+  width: min(90vw, 840px);
+  text-align: center;
 }
 
 .form{
