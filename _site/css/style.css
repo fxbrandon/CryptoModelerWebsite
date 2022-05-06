@@ -540,7 +540,7 @@ nav li {
 
 .parallax {
   position: relative;
-  background-color: var(--secundario);
+  background-color: rgba(0, 0, 0, 0.75);
   display: grid;
   justify-items: center;
   gap: 3rem;
@@ -587,8 +587,6 @@ nav li {
   color: white;
 }
 
-
-
 .parallax .binancepay p{
   width: min(90vw, 480px);
 }
@@ -598,9 +596,8 @@ nav li {
   flex-direction: column;
   gap: 2rem;
   padding: 7rem clamp(1rem, 5vw, 7rem);
-  color: white;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: white;
   text-align: center;
 }
 
@@ -612,8 +609,13 @@ nav li {
   width: min(90vw, 720px);
 }
 
+.pricing .features h3{
+  color: var(--accion);
+}
+
 .pricing .features li p {
   margin: 0.5rem 0;
+  color: white;
 }
 
 .cta {
