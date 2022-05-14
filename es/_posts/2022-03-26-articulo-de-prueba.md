@@ -1,9 +1,10 @@
 ---
 layout: articulo
-id: 0001
-title: Prueba de artículo completo
+lang: es
+lang-ref: Test Article
+title: Artículo de prueba
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
-category: Crypto News
+category: Crypto-News
 tags: [Crypto, Bitcoin]
 h1: Este es el artículo de prueba
 hero: header.jpg
@@ -21,7 +22,7 @@ Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Qua
 
 <!-- excerpt -->
 
-![img]({{site.baseurl}}/img/{{page.img2}})
+![Alt text]({{site.baseurl}}/img/{{page.img2}} "title text")
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro! Perferendis, fuga.
 
@@ -33,7 +34,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mol
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem fuga voluptates porro! Perferendis, fuga.
 
-![img]({{site.baseurl}}/img/{{page.img3}})
+![Alt text]({{site.baseurl}}/img/{{page.img3}} "title text")
 
 >lorem ipsum dolor si amet consectetur
 

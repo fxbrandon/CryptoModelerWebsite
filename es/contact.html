@@ -1,0 +1,58 @@
+---
+layout: default
+title: Página de Contacto de Crypto Modeler
+h1: Cuéntanos. Cómo puede ayudarte Crypto Modeler?
+lang: es
+lang-ref: CryptoModeler contact page
+description: Las últimas noticias del mundo de las criptomonedas y el blockchain. Consejos y actualizaciones para tu app de criptomonedas.
+accordion:
+- title: ¿Tengo que pagar antes de usar la aplicación?
+  content: No, simplemente descargue la aplicación, regístrese y obtendrá una suscripción de prueba gratuita. Después de completar, puede suscribirse a nuestros pequeños planes mensuales / anuales. No hay ningún cargo por cada transacción.
+- title: ¿Cómo se gestiona la suscripción de mi monedero?
+  content: En primer lugar, nos autorizas a crear una clave secreta personal y una contraseña para gestionar tus automatizaciones. Hazlo con la seguridad que te damos como socio de Binance. Siempre tendrás el control total, por lo que podrás desactivarlo cuando quieras.
+- title: ¿Cómo autorizo a CryptoModeler desde la cuenta de Binance?
+  content: Necesitas hacer algunos pasos para empezar a trabajar con CryptoModeler. Mira este video, seguro que te ayudará. En caso de necesitar soporte, ¡no dude en contactarnos!
+- title: ¿Tengo que introducir los datos de la tarjeta de crédito o de la cuenta bancaria?
+  content: Absolutamente no. Todos los pagos se hacen con Binance Pay Plattform (<a href="https://pay.binance.com" target="_blank" rel="noopener noreferrer">Binance Pay</a>). ¡Es la forma más segura y rápida de hacerlo y no hay ninguna comisión para ti! Al final, es la transferencia de su cartera Binance.
+- title: ¿Puedo retirar todo mi dinero de Binance?
+  content: Por supuesto, usted puede retirar Crypto a otra cartera o retirar Fiat (lo que entendemos por "dinero" hoy en día) a la misma tarjeta de crédito utilizada para el pago o la transferencia bancaria. (<a href="https://academy.binance.com/en/articles/how-to-withdraw" target="_blank" rel="noopener noreferrer">Cómo retirar</a>)
+permalink: /es/contacto
+---
+<header class="contact-home">
+  {% include logo.html %}
+  <lord-icon
+    src="https://cdn.lordicon.com/zpxybbhl.json"
+    trigger="loop"
+    colors="primary:#ffffff,secondary:#ffe100"
+    style="width:250px;height:250px">
+</lord-icon>
+  <div class="home-hero">
+    <h1>{{page.h1}}</h1>
+    <p>Escríbenos y estaremos encantados de darte las mejores soluciones.</p>
+  </div>
+</header>
+<div style="height: 150px; overflow: hidden; background-color: var(--secundario);"><svg viewBox="0 0 500 150"
+    preserveAspectRatio="none" style="height: 100%; width: 100%; ">
+    <path d="M-14.44,-18.25 C168.40,253.13 350.67,80.43 517.72,13.31 L500.00,150.00 L0.00,150.00 Z"
+      style="stroke: none; fill: var(--complemento2);"></path>
+  </svg></div>
+  <section class="intro-contact">
+    <p>En primer lugar, ve a la sección de preguntas frecuentes para las principales dudas sobre las funciones de Crypto Modeler. Si no encuentras tu duda, por favor escríbanos. Es un placer leer tus mensajes y darte un gran servicio.</p>
+  </section>
+<section class="faq" id="faq">
+  <h2>Preguntas Frecuentes sobre Crypto Modeler</h2>
+  <ul class="jekyllcodex_accordion">
+    {% for item in page.accordion %}
+    <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label
+        for="accordion{{ forloop.index }}">{{ item.title }}</label>
+      <div>{{ item.content | markdownify }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+<section class="contact" id="contact">
+  <h2>Contacta con Crypto Modeler</h2>
+  {% include form.html %}
+</section>
+
+{% include footer.html %}

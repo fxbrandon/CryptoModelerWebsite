@@ -3,6 +3,7 @@
 {% include css/universal.css %}
 {% include css/nav.css %}
 {% include css/principal.css %}
+{% include css/languages.css %}
 {% include css/footer.css %}
 {% include css/articulo.css %}
 {% include css/toc.css %}

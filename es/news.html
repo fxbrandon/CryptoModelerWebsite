@@ -1,0 +1,54 @@
+---
+layout: default
+title: Noticias de CryptoModeler para todos
+h1: Noticias de CryptoModeler para todos
+lang: es
+lang-ref: CryptoModeler News for everybody
+description: Las últimas noticias del mundo de las criptomonedas y el blockchain. Consejos y actualizaciones para tu app de criptomonedas.
+---
+<header class="news-home">
+  {% include logo.html %}
+  <lord-icon
+    src="https://cdn.lordicon.com/oqhlhtfq.json"
+    trigger="loop"
+    colors="primary:#ffe100,secondary:#ebe6ef"
+    style="width:250px;height:250px">
+</lord-icon>
+  <div class="home-hero">
+    <h1>{{page.h1}}</h1>
+    <p>Noticias de criptografía y actualizaciones de Cryptomodeler</p>
+  </div>
+</header>
+<div style="height: 150px; overflow: hidden; background-color: var(--secundario);"><svg viewBox="0 0 500 150"
+  preserveAspectRatio="none" style="height: 100%; width: 100%; ">
+  <path d="M-14.44,-18.25 C168.40,253.13 350.67,80.43 517.72,13.31 L500.00,150.00 L0.00,150.00 Z"
+    style="stroke: none; fill: var(--blanco);"></path>
+</svg></div>
+<section class="blog-intro" id="blog">
+  <h2>Últimas noticias sobre criptomonedas</h2>
+  <p>En las criptomonedas cada día hay cambios, novedades y muchas oportunidades. Es un mundo en el que estás en
+    el momento adecuado para entrar.</p>
+  <p>Por ello, preparamos el contenido de nuestra sección de noticias. <strong>Descubre con nosotros todo lo relacionado con el
+    mundo de las criptomonedas y el blockchain.</strong> Además, te daremos muchos consejos y noticias para CryptoModeler, para ayudarte a conseguir los mejores resultados. ¡Vamos a leer!</p>
+  <div>
+    {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+    </h3>
+    {% for post in site.categories[category_name] %}
+    <article class="article-blog">
+      <a href="{{ post.url }}" title="{{page.title}}">
+        <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
+          loading="lazy">
+        <h4>{{ post.h1 }}</h4>
+        <small>{{post.date | date_to_string}}</small>
+      </a>
+    </article>
+    {% endfor %}
+    {% endfor %}
+  </div>
+  <h2>Find your favorite topic here</h2>
+  {% include search.html %}
+</section>
+{% include cta.html %}
+{% include footer.html %}
