@@ -2,13 +2,25 @@
   
    {
   "title": "Prueba de artículo completo",
-  "url": "/bitcoin-retests-40k-after-stocks-sell-off-meets-fed-balance-sheet-bust",
+  "url": "/es/crypto-news/2022/03/26/bitcoin-supera-40000.html",
+  "alt": "El bitcoin vuelve a superar los 40.000 dólares tras la venta de acciones y la caída del balance de la Fed",
+  "img": "/img/header.jpg"
+  } ,  
+   {
+  "title": "Artículo de prueba",
+  "url": "/es/crypto-news/2022/03/26/articulo-de-prueba.html",
+  "alt": "Lorem ipsum dolor sit amet",
+  "img": "/img/header.jpg"
+  } ,  
+   {
+  "title": "Test article complete",
+  "url": "/en/crypto-news/2022/03/26/bitcoin-retests-40000.html",
   "alt": "Bitcoin retests $40K after stocks sell-off meets Fed balance sheet bust",
   "img": "/img/header.jpg"
   } ,  
    {
-  "title": "Prueba de artículo completo",
-  "url": "/articulo-de-prueba-copia-2-copia",
+  "title": "Test Article",
+  "url": "/en/crypto-news/2022/03/26/test-article.html",
   "alt": "Lorem ipsum dolor sit amet",
   "img": "/img/header.jpg"
   }  

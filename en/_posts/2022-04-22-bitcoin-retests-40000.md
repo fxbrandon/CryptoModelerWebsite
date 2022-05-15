@@ -1,11 +1,12 @@
 ---
 layout: articulo
-id: 0001
-title: Prueba de artículo completo
+lang: en
+lang-ref: Test article complete
+title: Test article complete
 description: Bitcoin retests $40K after stocks sell-off meets Fed balance sheet bust
-category: Crypto News
+category: Crypto-News
 tags: [Crypto, Bitcoin]
-h1: Este es el artículo de prueba
+h1: Test article complete
 hero: header.jpg
 altheader:  Bitcoin retests $40K after stocks sell-off meets Fed balance sheet bust
 img1: app-home.jpg
