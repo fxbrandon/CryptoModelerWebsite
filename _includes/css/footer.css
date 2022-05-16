@@ -14,12 +14,21 @@ footer div {
   gap: 0.5rem;
 }
 
+footer div,
+footer small {
+  text-align: center;
+}
+
 footer div ul {
   position: relative;
 }
 
 footer div ul li {
   list-style: none;
+}
+
+footer div a{
+  color: #FFE100;
 }
 
 .google,
