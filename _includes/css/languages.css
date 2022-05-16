@@ -1,58 +1,14 @@
-.welcome{
-  width: 100%;
-  display: grid;
-  justify-items: center;
-  align-items: center;
-  gap: 3rem;
-}
-
-.welcome img{
-  width: 240px;
-}
-
-.welcome h1{
-  color:  white;
-  text-transform: capitalize;
-  font-size: 3rem;
-  text-align: center;
-}
-
-.languages{
-  display: flex;
-  gap: 3rem;
-  justify-content: center;
-}
-
-.languages li{
-  list-style: none;
-}
-
-.languages li img{
-  width: 200px;
-  border-radius: 12px;
-  box-shadow: 0 0 12px rgba(255, 255, 255, 0.4);
-  transition: transform 0.5s ease;
-}
-
-.languages li img:hover{
-  transform: scale(1.05);
-}
-
-.lang-options{
+.flags{
   position: fixed;
   top: 35vh;
-  left: 0;
+  right: 0;
   background-color: var(--principal);
-  padding: 1rem 1.5rem;
-  border-radius: 0 12px 12px 0;
+  padding: 0.5rem;
+  border-radius: 12px 0 0 12px;
   box-shadow: var(--shadow);
+  display: grid;
+  gap: 0.5rem;
 }
-
-.lang-options li{
-  list-style: none;
-  text-transform: capitalize;
-}
-
-.lang-options a{
-  color: black;
+.flags a img{
+  width: 30px;
 }

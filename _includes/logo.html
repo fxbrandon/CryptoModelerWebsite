@@ -1,6 +1,9 @@
 <div class="nav-container">
   {% assign related = page.lang %}
-  <a href="{{site.baseurl}}/{{related}}"  title="Cryptomodeler Home" aria-label="Cryptomodeler's logo">
-    <img src="{{site.baseurl}}/img/logo.svg" alt="Cryptomodeler Logo"> 
-  </a> 
+  {% if page.language == "en" %}
+      <a href="/"><img src="{{site.baseurl}}/img/logo.svg" alt="Cryptomodeler Logo"> </a>
+      {% else %}
+      <a href="{{site.baseurl}}/es"><img src="{{site.baseurl}}/img/logo.svg" alt="Cryptomodeler Logo"></a>
+      {% endif %}
+    
 </div>

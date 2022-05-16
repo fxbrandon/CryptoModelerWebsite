@@ -10,7 +10,7 @@ title: Cryptomodeler App
 # whatsapp: Add your whatsapp
 # tel: Add your phone number
 
-# permalink: :slug
+permalink: pretty
 
 markdown: kramdown
 
@@ -32,3 +32,79 @@ plugins:
 
 exclude:
 - README.md
+
+cta:
+  en: With our app you will finally be able to invest in cryptocurrencies without the risk of losing all your savings. Program it easily and take advantage of its actions in your favor.
+  es: Con nuestra app podrás por fin invertir en criptodivisas sin el riesgo de perder todos tus ahorros. Prográmala fácilmente y aprovecha sus acciones a tu favor
+
+cta-button:
+  en: Download Crypto Modeler
+  es: Descargar Crypto Modeler
+
+h2-search:
+  en: Find your favorite topic here
+  es: Encuentra tu tema favorito aquí
+
+nav-home:
+  en: Home
+  es: Inicio
+
+nav-news:
+  en: News
+  es: Noticias
+
+nav-pricing:
+  en: Pricing
+  es: Precios
+
+nav-contact:
+  en: Contact
+  es: Contacto
+
+footer-links:
+  en: Our links
+  es: Enlaces
+
+footer-news:
+  en: News
+  es: Noticias
+
+footer-pricing:
+  en: Pricing
+  es: Precios
+
+footer-contact:
+  en: Contact
+  es: Contacto
+
+footer-disclaimer:
+  en: Disclaimer
+  es: Descargos
+
+footer-chat:
+  en: Write Us
+  es: Escríbenos
+
+footer-down:
+  en: Downloads
+  es: Descargas
+
+footer-register:
+  en: 'Crypto Modeler - All rights reserved'
+  es: 'Crypto Modeler - Todos los derechos reservados'
+
+form-name:
+  en: Name
+  es: Nombre
+
+form-email:
+  en: Email
+  es: Correo
+
+form-write:
+  en: Write your message
+  es: Escribe tu mensaje
+
+form-button:
+  en: Say hello!
+  es: Saluda!

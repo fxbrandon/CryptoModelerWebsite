@@ -2,40 +2,39 @@
 layout: default
 title: CryptoModeler News for everybody
 h1: Crypto News for Crypto Modeler
-lang: en
-lang-ref: CryptoModeler News for everybody
+language: en
+handle: /news
 description: The latest news from the world of cryptocurrencies and blockchain. Tips and updates for your cryptomodeler app.
 ---
 <header class="news-home">
   {% include logo.html %}
-  <lord-icon
-    src="https://cdn.lordicon.com/oqhlhtfq.json"
-    trigger="loop"
-    colors="primary:#ffe100,secondary:#ebe6ef"
+  <lord-icon src="https://cdn.lordicon.com/oqhlhtfq.json" trigger="loop" colors="primary:#ffe100,secondary:#ebe6ef"
     style="width:250px;height:250px">
-</lord-icon>
+  </lord-icon>
   <div class="home-hero">
     <h1>{{page.h1}}</h1>
     <p>Crypto news and Cryptomodeler updates</p>
   </div>
 </header>
 <div style="height: 150px; overflow: hidden; background-color: var(--secundario);"><svg viewBox="0 0 500 150"
-  preserveAspectRatio="none" style="height: 100%; width: 100%; ">
-  <path d="M-14.44,-18.25 C168.40,253.13 350.67,80.43 517.72,13.31 L500.00,150.00 L0.00,150.00 Z"
-    style="stroke: none; fill: var(--blanco);"></path>
-</svg></div>
+    preserveAspectRatio="none" style="height: 100%; width: 100%; ">
+    <path d="M-14.44,-18.25 C168.40,253.13 350.67,80.43 517.72,13.31 L500.00,150.00 L0.00,150.00 Z"
+      style="stroke: none; fill: var(--blanco);"></path>
+  </svg></div>
 <section class="blog-intro" id="blog">
   <h2>Latest crypto news</h2>
   <p>In cryptocurrencies every day there are changes, novelties and many opportunities. It is a world that you are in
     the right time to enter.</p>
   <p>For this reason, we prepare the content of our news section. <strong>Find out with us everything related to the
-      world of cryptocurrencies and the blockchain.</strong> In addition, we will give you many tips and news for CryptoModeler, to help you achieve the best results. Let's read!</p>
+      world of cryptocurrencies and the blockchain.</strong> In addition, we will give you many tips and news for
+    CryptoModeler, to help you achieve the best results. Let's read!</p>
   <div>
     {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% capture category_name %}{{ category | first | remove: "es" }}{% endcapture %}
     <h3 id="{{ category_name}}">{{ category_name | capitalize}}
     </h3>
     {% for post in site.categories[category_name] %}
+    {% if post.language == page.language %}
     <article class="article-blog">
       <a href="{{ post.url }}" title="{{page.title}}">
         <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
@@ -44,10 +43,11 @@ description: The latest news from the world of cryptocurrencies and blockchain. 
         <small>{{post.date | date_to_string}}</small>
       </a>
     </article>
+    {% endif %}
     {% endfor %}
     {% endfor %}
   </div>
-  <h2>Find your favorite topic here</h2>
+  <h2>{{ site.h2-search[page.language] }}</h2>
   {% include search.html %}
 </section>
 {% include cta.html %}
