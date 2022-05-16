@@ -11,7 +11,7 @@ layout: default
   <section>
     <small>Autor: {{page.autor}}. Date: {{ page.date | date_to_long_string | date: "%b %d, %y"}}</small>
     {{ content }}
-    <h2>¿Do you enjoy this article? Please, share it</h2>
+    <h2>{{ site.article-share[page.language] }}</h2>
     {% include share.html %}
 
     <!-- <div class="disqus" style="width: min(90%, 640px); margin-left: inherit; justify-self: left; box-shadow: none; padding: 1rem;"></div> -->
@@ -19,7 +19,7 @@ layout: default
   </section>
 
   <aside class="sugerencias">
-    <h3>Learn more about...</h3>
+    <h3>{{ site.article-more[page.language] }}</h3>
     {% assign maxRelated = 5 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
