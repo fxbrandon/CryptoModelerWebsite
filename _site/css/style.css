@@ -739,12 +739,21 @@ footer div {
   gap: 0.5rem;
 }
 
+footer div,
+footer small {
+  text-align: center;
+}
+
 footer div ul {
   position: relative;
 }
 
 footer div ul li {
   list-style: none;
+}
+
+footer div a{
+  color: #FFE100;
 }
 
 .google,
@@ -1124,11 +1133,6 @@ textarea.form__input {
     width: 50vw;
     font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
     padding: 3rem 2.5rem;
-    text-align: center;
-  }
-
-  footer div,
-  footer small {
     text-align: center;
   }
 
