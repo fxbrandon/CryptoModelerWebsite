@@ -1,18 +1,17 @@
 <form class="form" action="https://formspree.io/f/xwkyrjnw" method="POST">
   <div class="form__group">
-    <label class="form__label screen-reader-text" for="form-name">Name</label>
+    <label class="form__label screen-reader-text" for="form-name">{{ site.form-name[page.language] }}</label>
     <input class="form__input" id="form-name" type="text" name="name" placeholder="Jack Franck..." required>
   </div>
   <div class="form__group">
-    <label class="form__label screen-reader-text" for="form-email">Email</label>
+    <label class="form__label screen-reader-text" for="form-email">{{ site.form-email[page.language] }}</label>
     <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="jack@fran.ck..." required>
   </div>
   <div class="form__group">
-    <label class="form__label screen-reader-text" for="form-text">Write your message</label>
+    <label class="form__label screen-reader-text" for="form-text">{{ site.form-write[page.language] }}</label>
     <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Hello. I'm Jack..." required></textarea>
   </div>
   <div class="form__group">
-    <button class="botones" type="submit">Say hello!</button>
+    <button class="botones" type="submit">{{ site.form-button[page.language] }}</button>
   </div>
-  <!-- <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/thanks/" /> -->
 </form>

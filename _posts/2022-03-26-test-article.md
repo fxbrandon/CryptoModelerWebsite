@@ -1,7 +1,7 @@
 ---
 layout: articulo
-lang: en
-lang-ref: Test Article
+language: en
+handle: /test-article
 title: Test Article
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
 category: Crypto-News

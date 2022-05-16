@@ -1,17 +1,12 @@
-{% if page.url contains "en" or  page.url contains "es" %}
-{% if page.layout != 'index' %}
-    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-    {% if posts.size == 0 %}
-        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+<div class="flags">
+    {% if page.name contains "index" %}
+    <a href="{{ site.baseurl }}/"><img src="{{ 'img/gb.svg' | relative_url}}" alt="English language flag"> </a>
+    <a href="{{ site.baseurl | append: "/es" }}"><img src="{{ 'img/es.svg' | relative_url}}"
+            alt="Bandera idioma español"></a>
+    {% else %}
+    <a href="{{ site.baseurl | append: page.handle }}"><img src="{{ 'img/gb.svg' | relative_url}}"
+            alt="English language flag"> </a>
+    <a href="{{ site.baseurl | append: "/es" | append: page.handle }}"><img src="{{ 'img/es.svg' | relative_url}}"
+            alt="Bandera idioma españdiv></a>
     {% endif %}
-    {% if posts.size > 1 %}
-    <div class="lang-options">
-        <ul>
-        {% for post in posts %}
-        <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{ post.lang }}</a></li>
-        {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
-{% endif %}
-{% endif %}
+</div>
