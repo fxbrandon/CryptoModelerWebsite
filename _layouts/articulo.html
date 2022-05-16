@@ -14,8 +14,6 @@ layout: default
     <h2>{{ site.article-share[page.language] }}</h2>
     {% include share.html %}
 
-    <!-- <div class="disqus" style="width: min(90%, 640px); margin-left: inherit; justify-self: left; box-shadow: none; padding: 1rem;"></div> -->
-    <!-- <div class="disqus-loading">Loading comments&hellip;</div> -->
   </section>
 
   <aside class="sugerencias">
@@ -28,10 +26,12 @@ layout: default
     {% assign commonTags = '' %}
     {% for tag in post.tags %}
     {% if post.url != page.url %}
+    {% if post.language == page.language %}
     {% if page.tags contains tag %}
     {% assign sameTagCount = sameTagCount | plus: 1 %}
     {% capture tagmarkup %} <span>{{ tag }}</span> {% endcapture %}
     {% assign commonTags = commonTags | append: tagmarkup %}
+    {% endif %}
     {% endif %}
     {% endif %}
     {% endfor %}
@@ -53,45 +53,9 @@ layout: default
     {% endfor %}
   </aside>
 </main>
-<!-- <style>
- .disqus-placeholder.is-hidden { display: none; }
-</style>
-<script defer> 
-/*
-disqusLoader.js v1.0
-A JavaScript plugin for lazy-loading Disqus comments widget.
--
-By Osvaldas Valutis, www.osvaldas.info
-Available for use under the MIT License
-*/
-
-(function(b,f,l){var r=function(a){a=a.getBoundingClientRect();return{top:a.top+f.body.scrollTop,left:a.left+f.body.scrollLeft}},t=function(a,c){var d=f.createElement("script");d.src=a;d.async=!0;d.setAttribute("data-timestamp",+new Date);d.addEventListener("load",function(){"function"===typeof c&&c()});(f.head||f.body).appendChild(d)};l=function(a,c){var d,e;return function(){var g=this,f=arguments,b=+new Date;d&&b<d+a?(clearTimeout(e),e=setTimeout(function(){d=b;c.apply(g,f)},a)):(d=b,c.apply(g,
-f))}};var m=!1,n=!1,p=!1,k=!1,h="unloaded",e=!1,q=function(){if(!e||!f.body.contains(e)||"loaded"==e.disqusLoaderStatus)return!0;var a=b.pageYOffset,c=r(e).top;if(c-a>b.innerHeight*n||0<a-c-e.offsetHeight-b.innerHeight*n)return!0;(a=f.getElementById("disqus_thread"))&&a.removeAttribute("id");e.setAttribute("id","disqus_thread");e.disqusLoaderStatus="loaded";"loaded"==h?DISQUS.reset({reload:!0,config:p}):(b.disqus_config=p,"unloaded"==h&&(h="loading",t(k,function(){h="loaded"})))};b.addEventListener("scroll",
-l(m,q));b.addEventListener("resize",l(m,q));b.disqusLoader=function(a,c){var d={laziness:1,throttle:250,scriptUrl:!1,disqusConfig:!1},b=c,g,h={};for(g in d)Object.prototype.hasOwnProperty.call(d,g)&&(h[g]=d[g]);for(g in b)Object.prototype.hasOwnProperty.call(b,g)&&(h[g]=b[g]);c=h;n=c.laziness+1;m=c.throttle;p=c.disqusConfig;k=!1===k?c.scriptUrl:k;e="string"===typeof a?f.querySelector(a):"number"===typeof a.length?a[0]:a;e.disqusLoaderStatus="unloaded";q()}})(window,document,0); 
-</script>
-<script defer>
-	disqusLoader( '.disqus',
-	{
-		scriptUrl:		'//gurcoff.disqus.com/embed.js',
-		disqusConfig:	function()
-		{
-			this.page.identifier 	= 'https://gurcoff.com{{page.url}}';
-			this.page.url			= 'https://gurcoff.com{{page.url}}';
-			this.page.title			= '{{page.title}}';
-			this.callbacks.onReady	= [function()
-			{
-				var el = document.querySelector( '.disqus-loading' );
-				if( el.classList )
-					el.classList.add( 'is-hidden' );
-				else
-					el.className += ' ' + 'is-hidden';
-			}];
-		}
-	});
-</script> -->
 <section class="article-end">
-  <h3>¿You do not have your Crypto Modeler app yet?</h3>
-  <a class="botones" href="assets/com.pixcile.cryptobiance.apk" title="lorem" rel="nofollow">Download your app</a>
+  <h3>{{ site.article-end[page.language] }}</h3>
+  <a class="botones" href="assets/com.pixcile.cryptobiance.apk" title="lorem" rel="nofollow">{{ site.article-end-button[page.language] }}</a>
 
 </section>
 
