@@ -24,7 +24,11 @@
   </div>
   <div>
     <h3>{{ site.footer-chat[page.language] }}</h3>
-    <a href="{{ 'contact' | relative_url }}" title="Chat whit cryptomodeler">
+    {% if page.language == "en" %}
+      <a href="{{site.baseurl}}/contact">
+      {% else %}
+      <a href="{{site.baseurl}}/es/contact">
+      {% endif %}
       <lord-icon
       src="https://cdn.lordicon.com/itykargr.json"
       trigger="loop"
