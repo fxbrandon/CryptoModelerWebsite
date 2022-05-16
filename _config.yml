@@ -108,3 +108,11 @@ form-write:
 form-button:
   en: Say hello!
   es: Saluda!
+
+article-share:
+  en: Do you enjoy this article? Please, share it
+  es: ¿Te gustó este artículo? Por favor, compártelo
+
+article-more:
+  en: Learn more about...
+  es: Aprende más...

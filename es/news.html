@@ -51,3 +51,13 @@ description: Las últimas noticias del mundo de las criptomonedas y el blockchai
 </section>
 {% include cta.html %}
 {% include footer.html %}
+<!-- Script pointing to search-script.js -->
+<script src="{{ 'js/search-script.js' | relative_url }}"></script>
+<!-- Buscador -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: "{{site.baseulr}}/search.json"
+  })
+</script>
