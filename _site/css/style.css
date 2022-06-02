@@ -454,6 +454,7 @@ nav li {
   display: grid;
   gap: 5rem;
   padding: 12rem clamp(1rem, 5vw, 7rem);
+  border-radius: ;
 }
 
 .how h2 {
@@ -536,6 +537,48 @@ nav li {
 
 .how h2~.botones {
   justify-self: center;
+}
+
+.register{
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 5rem clamp(2rem, 7vw, 15vw);
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.register h2{
+  color: var(--principal);
+}
+
+.register p{
+  width: min(90vw, 520px);
+}
+
+.register div{
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  align-items: center;
+}
+
+.register div article{
+  display: grid;
+  gap: 2rem;
+  justify-items: center;
+}
+
+.register div article span{
+  font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
+  color: var(--principal);
+}
+
+.register div article img{
+  width: 280px;
 }
 
 .parallax {
