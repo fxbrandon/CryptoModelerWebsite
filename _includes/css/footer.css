@@ -40,14 +40,16 @@ footer {
 .footer-links{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .footer-links div{
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: left;
+  gap: 1rem;
+  justify-content: center;
+  text-align: center;
 }
 
 .footer-links div a{

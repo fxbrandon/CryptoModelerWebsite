@@ -90,8 +90,8 @@ footer-down:
   es: Descarga tu app de CryptoModeler
 
 footer-register:
-  en: 'Crypto Modeler - All rights reserved'
-  es: 'Crypto Modeler - Todos los derechos reservados'
+  en: 'Cryptomodeler all rights reserved'
+  es: 'Cryptomodeler derechos reservados'
 
 form-name:
   en: Name
@@ -124,3 +124,7 @@ article-end:
 article-end-button:
   en: Download your app
   es: Descarga tu app
+
+url-download-app:
+  ios: "#"
+  google: /assets/pixcile.cryptobiance.apk
