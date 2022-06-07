@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-06T17:47:03-05:00</updated>
+     <updated>2022-06-07T08:14:48-05:00</updated>
      <title type="html">Cryptomodeler App</title>
      <author>
        <name>CryptoModeler App</name>
@@ -25,7 +25,7 @@
    <link href="http://localhost:4000/es/crypto-news/2022/03/26/articulo-de-prueba/"/>
    <id>http://localhost:4000/es/crypto-news/2022/03/26/articulo-de-prueba</id>
    <updated>2022-03-26T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;&lt;img src=&quot;/img/bg-cryptos-min.webp&quot; alt=&quot;Alt text&quot; title=&quot;title text&quot; /&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem...</content>
+   <content type="html">&lt;p&gt;Crypto Modeler loremLorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Este es el código para insertar imágenes. La sección que dice Alt text es para el atributo Alt. Luego puedes cambiar la sección que dice...</content>
  </entry>
  
  <entry>
