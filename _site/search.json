@@ -10,8 +10,8 @@
    {
   "title": "Artículo de prueba",
   "url": "/es/crypto-news/2022/03/26/articulo-de-prueba/",
-  "alt": "Lorem ipsum dolor sit amet",
-  "img": "/img/header.jpg"
+  "alt": "Imagen del mercado bursátil recuperándose",
+  "img": "/img/articulos/articulo-1.jpg"
   }
   ,  
    {
@@ -22,10 +22,10 @@
   }
   ,  
    {
-  "title": "Test Article",
+  "title": "Artículo de prueba",
   "url": "/crypto-news/2022/03/26/test-article/",
   "alt": "Lorem ipsum dolor sit amet",
-  "img": "/img/header.jpg"
+  "img": "/img/articulos/articulo-1.jpg"
   }
    
 ]

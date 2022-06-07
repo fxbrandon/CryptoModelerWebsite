@@ -35,7 +35,11 @@ description: Las últimas noticias del mundo de las criptomonedas y el blockchai
       {% for post in site.categories[category_name] %}
       {% if post.language == page.language %}
       <article class="article-blog">
+        {% if post.link %}
+      <a href="{{ post.link }}" title="{{page.title}}">
+        {% else %}
         <a href="{{ post.url }}" title="{{page.title}}">
+          {% endif %} 
           <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
             loading="lazy">
           <h4>{{ post.h1 }}</h4>

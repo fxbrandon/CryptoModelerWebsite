@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-07T08:14:48-05:00</updated>
+     <updated>2022-06-07T09:51:36-05:00</updated>
      <title type="html">Cryptomodeler App</title>
      <author>
        <name>CryptoModeler App</name>
@@ -42,7 +42,7 @@
  </entry>
  
  <entry>
-   <title>Test Article</title>
+   <title>Artículo de prueba</title>
    <link href="http://localhost:4000/crypto-news/2022/03/26/test-article/"/>
    <id>http://localhost:4000/crypto-news/2022/03/26/test-article</id>
    <updated>2022-03-26T00:00:00-05:00</updated>

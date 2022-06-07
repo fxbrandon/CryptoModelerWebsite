@@ -36,7 +36,11 @@ description: The latest news from the world of cryptocurrencies and blockchain. 
     {% for post in site.categories[category_name] %}
     {% if post.language == page.language %}
     <article class="article-blog">
-      <a href="{{ post.url }}" title="{{page.title}}">
+      {% if post.link %}
+      <a href="{{ post.link }}" title="{{page.title}}">
+        {% else %}
+        <a href="{{ post.url }}" title="{{page.title}}">
+          {% endif %} 
         <img src="{{site.baseurl}}/img/{{ post.hero }}" width="150px" height="150px" alt="{{ post.alt }}"
           loading="lazy">
         <h4>{{ post.h1 }}</h4>
