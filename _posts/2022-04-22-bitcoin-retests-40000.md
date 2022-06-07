@@ -1,7 +1,7 @@
 ---
 layout: articulo
 language: en
-handle: /bitcoin-retests-40000
+handle: /test-article
 title: Test article complete
 description: Bitcoin retests $40K after stocks sell-off meets Fed balance sheet bust
 category: Crypto-News
