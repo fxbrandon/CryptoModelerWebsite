@@ -29,6 +29,17 @@ description: The latest news from the world of cryptocurrencies and blockchain. 
       world of cryptocurrencies and the blockchain.</strong> In addition, we will give you many tips and news for
     CryptoModeler, to help you achieve the best results. Let's read!</p>
   <div>
+    <h3 id="news">Last Cryto News</h3>
+    {% for new in site.data.news %}
+    <article class="article-blog">
+    <a href="{{ new.link }}" title="{{new.title}}">
+        <img src="{{site.baseurl}}/img/{{ new.img }}" width="150px" height="150px" alt="{{ post.title }}"
+          loading="lazy">
+        <h4>{{ new.title }}</h4>
+        <small>{{ new.date | date_to_string}}</small>
+      </a>
+    </article>
+    {% endfor %}
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first | remove: "es" }}{% endcapture %}
     <h3 id="{{ category_name}}">{{ category_name | capitalize}}

@@ -10,7 +10,7 @@ title: Artículo de prueba
 #Recuerda que la descripción debe incluir las keywords hacia el comienzo de la oración
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
 # Agrega la categoría Crypto-News si es una noticia. Si es un artículo escoge el nombre.
-category: Crypto-News
+category: Cryptomodeler
 tags: [Crypto, Bitcoin]
 # Agrega una url si es solo un comentario. Si es un artículo, agrega la palabra reservada "false"
 link: https://es.cointelegraph.com/news/btc-price-approaches-32k-as-analyst-warns-of-boring-summer-for-bitcoin
