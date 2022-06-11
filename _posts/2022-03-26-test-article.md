@@ -9,7 +9,7 @@ handle: /test-comment
 title: Artículo de prueba
 #Recuerda que la descripción debe incluir las keywords hacia el comienzo de la oración
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
-category: Crypto-News
+category: Cryptomodeler
 tags: [Crypto, Bitcoin]
 # Agrega una url si es solo un comentario
 link: https://cointelegraph.com/news/btc-price-approaches-32k-as-analyst-warns-of-boring-summer-for-bitcoin
