@@ -2,7 +2,7 @@ baseurl: ''
 url: 'https://crytomodeler.app'
 name: CryptoModeler App
 author: Josep Roure
-# email: info@cryptomodeler.app
+email: info@cryptomodeler.app
 title: Cryptomodeler App
 # yotube: Add your youtube channel
 # facebook: Add your facebook fanpage
@@ -35,7 +35,7 @@ exclude:
 
 cta:
   en: With our app you will finally be able to invest in cryptocurrencies without the risk of losing all your savings. Program it easily and take advantage of its actions in your favor.
-  es: Con nuestra app podrás por fin invertir en criptodivisas sin el riesgo de perder todos tus ahorros. Prográmala fácilmente y aprovecha sus acciones a tu favor
+  es: Con nuestra app podrás por fin invertir en criptodivisas sin el riesgo de perder todos tus ahorros. Prográmala fácilmente y aprovecha sus acciones a tu favor.
 
 cta-button:
   en: Download Crypto Modeler
@@ -79,7 +79,7 @@ footer-contact:
 
 footer-disclaimer:
   en: Disclaimer
-  es: Descargos
+  es: Descargas
 
 footer-chat:
   en: Write Us
@@ -90,8 +90,8 @@ footer-down:
   es: Descarga tu app de CryptoModeler
 
 footer-register:
-  en: 'Cryptomodeler all rights reserved'
-  es: 'Cryptomodeler derechos reservados'
+  en: '© Cryptomodeler all rights reserved'
+  es: '© Cryptomodeler derechos reservados'
 
 form-name:
   en: Name
@@ -110,7 +110,7 @@ form-button:
   es: Saluda!
 
 article-share:
-  en: Do you enjoy this article? Please, share it
+  en: Did you enjoy this article? Please, share it
   es: ¿Te gustó este artículo? Por favor, compártelo
 
 article-more:
@@ -119,7 +119,7 @@ article-more:
 
 article-end:
   en: You do not have your Crypto Modeler app yet?
-  es: ¿Todavía no instalas Crypto Modeler?
+  es: ¿Todavía no tienes Crypto Modeler?
 
 article-end-button:
   en: Download your app
