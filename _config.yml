@@ -2,7 +2,7 @@ baseurl: ''
 url: 'https://crytomodeler.app'
 name: CryptoModeler App
 author: Josep Roure
-# email: info@cryptomodeler.app
+email: info@cryptomodeler.app
 title: Cryptomodeler App
 # yotube: Add your youtube channel
 # facebook: Add your facebook fanpage
@@ -90,8 +90,8 @@ footer-down:
   es: Descarga tu app de CryptoModeler
 
 footer-register:
-  en: '@ Cryptomodeler all rights reserved'
-  es: '@ Cryptomodeler derechos reservados'
+  en: '© Cryptomodeler all rights reserved'
+  es: '© Cryptomodeler derechos reservados'
 
 form-name:
   en: Name
