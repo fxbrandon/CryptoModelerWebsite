@@ -7,7 +7,10 @@ description: Crypto Mobile App to full automate your daily investments and see a
 ---
 <header class="first-container">
   {% include logo.html %}
-  <img src="{{site.baseurl}}/img/dashboard-cryptomodeler-header.webp" alt="{{page.description}}" class="hero-home" width="360px" height="640px">
+  <picture>
+    <source media="(min-width: 699px)" srcset="{{site.baseurl}}/img/dashboard-cryptomodeler-header.webp" type="image/webp">
+    <img src="{{site.baseurl}}/img/dashboard-cryptomodeler-header-mini.webp" alt="{{page.description}}" class="hero-home">
+  </picture>
   <div class="home-hero">
     <h1>{{page.h1}}</h1>
     <p>Crypto for everybody!</p>

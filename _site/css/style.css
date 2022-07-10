@@ -454,7 +454,6 @@ nav li {
   display: grid;
   gap: 5rem;
   padding: 12rem clamp(1rem, 5vw, 7rem);
-  border-radius: ;
 }
 
 .how h2 {
