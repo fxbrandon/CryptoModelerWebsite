@@ -256,8 +256,8 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 .hero-home {
-  align-self: center;
-  width: min(100%, 348px);
+  display: block;
+  margin: 0 auto;
 }
 
 .first-container p {
