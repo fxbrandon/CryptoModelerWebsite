@@ -11,8 +11,6 @@ title: Artículo de prueba
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
 category: Cryptomodeler
 tags: [Crypto, Bitcoin]
-# Agrega una url si es solo un comentario
-link: https://cointelegraph.com/news/btc-price-approaches-32k-as-analyst-warns-of-boring-summer-for-bitcoin
 # Procura que el h1 sea diferente al title. Si es un comentario, lo agregas aquí. Si es un artículo, agregas el título del artículo.
 h1: Aquí va el comentario en inglés del artículo de prueba.
 # Aquí agregas la imagen principal del artículo

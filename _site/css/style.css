@@ -662,7 +662,7 @@ nav li {
 
 .cta {
   background-color: var(--complemento2);
-  padding: 7rem clamp(2rem, 20vw, 15rem);
+  padding: 7rem clamp(2rem, 20vw, 5rem);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -851,6 +851,13 @@ footer {
   border-radius: 12px;
   box-shadow: var(--shadow)
 }
+
+.articulo section blockquote p{
+  text-indent: 1rem;
+  letter-spacing: 1.2px;
+  font-style: oblique;
+}
+
 
 .sugerencias{
   display: flex;
@@ -1116,8 +1123,16 @@ textarea.form__input {
 }
 
 .blog-intro div,
-.blog-intro p {
+.blog-intro p,
+.blog-intro li {
   width: min(90vw, 1024px);
+}
+
+
+.blog-intro blockquote p{
+  text-indent: 1rem;
+  letter-spacing: 1.2px;
+  font-style: oblique;
 }
 
 .blog-intro div {
