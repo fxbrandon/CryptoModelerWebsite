@@ -21,8 +21,8 @@ altheader: Lorem ipsum dolor sit amet
 img1: app-home.jpg
 img2: bg-cryptos-min.webp
 img3: workflows-crypto.webp
-autor: Crypto Modeler
-copyright: Crypto Modeler
+autor: CryptoModeler
+copyright: CryptoModeler
 excerpt_separator: <!-- excerpt -->
 date: 2022-03-26
 ---
