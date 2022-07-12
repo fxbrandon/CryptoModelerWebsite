@@ -28,8 +28,16 @@
 }
 
 .blog-intro div,
-.blog-intro p {
+.blog-intro p,
+.blog-intro li {
   width: min(90vw, 1024px);
+}
+
+
+.blog-intro blockquote p{
+  text-indent: 1rem;
+  letter-spacing: 1.2px;
+  font-style: oblique;
 }
 
 .blog-intro div {

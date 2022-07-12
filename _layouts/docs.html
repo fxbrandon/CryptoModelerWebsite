@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<header class="news-home">
+  {% include logo.html %}
+  <div class="home-hero">
+    <h1>{{page.h1}}</h1>
+    <p>{{page.description}}</p>
+  </div>
+</header>
+<main class="blog-intro">
+  {{content}}
+</main>
+{% include footer.html %}

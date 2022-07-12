@@ -1,7 +1,7 @@
 ---
 # Aquí diligencias los campos title, description, category, tags, h1, hero, altheader, img1, img2, img3, autor y date
 layout: articulo
-# Los comentarios y artículos en inglés siempre llevan la palabra reservada "es"
+# Los comentarios y artículos en español siempre llevan la palabra reservada "es"
 language: es
 # La variable handle debe ser igual en las 2 versiones, en inglés y en español.
 handle: /test-comment
@@ -12,8 +12,6 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit
 # Agrega la categoría Crypto-News si es una noticia. Si es un artículo escoge el nombre.
 category: Cryptomodeler
 tags: [Crypto, Bitcoin]
-# Agrega una url si es solo un comentario. Si es un artículo, agrega la palabra reservada "false"
-link: https://es.cointelegraph.com/news/btc-price-approaches-32k-as-analyst-warns-of-boring-summer-for-bitcoin
 # Procura que el h1 sea diferente al title. Si es un comentario, lo agregas aquí. Si es un artículo, agregas el título del artículo.
 h1: El mercado se está recuperando. Entonces, este es el momento de invertir. No pierdas esta valiosa oportunidad.
 # Aquí agregas la imagen principal del artículo o del comentario

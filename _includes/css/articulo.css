@@ -26,6 +26,13 @@
   box-shadow: var(--shadow)
 }
 
+.articulo section blockquote p{
+  text-indent: 1rem;
+  letter-spacing: 1.2px;
+  font-style: oblique;
+}
+
+
 .sugerencias{
   display: flex;
   flex-direction: column;
