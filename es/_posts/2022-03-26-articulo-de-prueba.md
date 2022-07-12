@@ -10,7 +10,7 @@ title: Artículo de prueba
 #Recuerda que la descripción debe incluir las keywords hacia el comienzo de la oración
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
 # Agrega la categoría Crypto-News si es una noticia. Si es un artículo escoge el nombre.
-category: Cryptomodeler
+category: CryptoModeler
 tags: [Crypto, Bitcoin]
 # Procura que el h1 sea diferente al title. Si es un comentario, lo agregas aquí. Si es un artículo, agregas el título del artículo.
 h1: El mercado se está recuperando. Entonces, este es el momento de invertir. No pierdas esta valiosa oportunidad.

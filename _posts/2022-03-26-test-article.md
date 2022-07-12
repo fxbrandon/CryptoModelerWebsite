@@ -9,7 +9,7 @@ handle: /test-comment
 title: Artículo de prueba
 #Recuerda que la descripción debe incluir las keywords hacia el comienzo de la oración
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, odit ex sequi mollitia harum consequuntur iusto, nobis commodi voluptatem
-category: Cryptomodeler
+category: CryptoModeler
 tags: [Crypto, Bitcoin]
 # Procura que el h1 sea diferente al title. Si es un comentario, lo agregas aquí. Si es un artículo, agregas el título del artículo.
 h1: Aquí va el comentario en inglés del artículo de prueba.
