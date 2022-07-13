@@ -1,5 +1,5 @@
 ---
-layout: legal
+layout: docs
 title: Información Legal sobre Crypto Modeler
 h1: Términos y Condiciones de la página web de Crypto Modeler
 language: es
@@ -14,7 +14,7 @@ La información proporcionada en este sitio web no constituye un asesoramiento d
 
 ### Exactitud de la información
 
-Crypto Modeler se esforzará por garantizar la exactitud de la información que aparece en este sitio web, aunque no se responsabilizará de ninguna información que falte o sea incorrecta. Crypto Modeler proporciona toda la información tal cual. Usted entiende que está utilizando toda la información disponible aquí bajo su propio riesgo..
+Crypto Modeler se esforzará por garantizar la exactitud de la información que aparece en este sitio web, aunque no se responsabilizará de ninguna información que falte o sea incorrecta. Crypto Modeler proporciona toda la información tal cual. Usted entiende que está utilizando toda la información disponible aquí bajo su propio riesgo.
 
 ### Sin aval
 

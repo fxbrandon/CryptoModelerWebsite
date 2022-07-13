@@ -1,5 +1,5 @@
 ---
-layout: legal
+layout: docs
 title: Legal information about Crypto Modeler
 h1: Crypto Modeler Website Terms and Conditions
 language: en
