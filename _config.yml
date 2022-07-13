@@ -127,4 +127,5 @@ article-end-button:
 
 url-download-app:
   ios: "#"
-  google: /assets/pixcile.cryptobiance.apk
+  google: "#"
+  #google: /assets/pixcile.cryptobiance.apk
