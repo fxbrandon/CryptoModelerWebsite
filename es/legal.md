@@ -10,7 +10,7 @@ description: Condiciones, privacidad y todos los términos legales sobre el uso 
 
 ### No son consejos de inversión
 
-La información proporcionada en este sitio web no constituye un asesoramiento de inversión, asesoramiento financiero, asesoramiento comercial o cualquier otro tipo de asesoramiento y usted no debe tratar ningún contenido del sitio web como tal. Crypto Modeler no recomienda la compra, venta o tenencia de ninguna criptomoneda. Lleve a cabo su propia diligencia debida y consulte a su asesor financiero antes de tomar cualquier decisión de inversión.
+La información proporcionada en este sitio web no constituye un asesoramiento de inversión, asesoramiento financiero, asesoramiento comercial o cualquier otro tipo de asesoramiento y usted no debe tratar ningún contenido del sitio web como tal. CryptoModeler no recomienda la compra, venta o tenencia de ninguna criptomoneda. Lleve a cabo su propia diligencia debida y consulte a su asesor financiero antes de tomar cualquier decisión de inversión.
 
 ### Exactitud de la información
 
@@ -18,21 +18,21 @@ Crypto Modeler se esforzará por garantizar la exactitud de la información que 
 
 ### Sin aval
 
-La aparición de anuncios e hipervínculos de terceros en Crypto Modeler no constituye un respaldo, garantía o recomendación por parte de Crypto Modeler. Lleve a cabo su propia diligencia antes de decidirse a utilizar cualquier servicio de terceros.
+La aparición de anuncios e hipervínculos de terceros en CryptoModeler no constituye un respaldo, garantía o recomendación por parte de CryptoModeler. Lleve a cabo su propia diligencia antes de decidirse a utilizar cualquier servicio de terceros.
 
 ### Divulgación de información a los afiliados
 
-Crypto Modeler puede recibir una compensación por los enlaces de afiliados. Esta compensación puede ser en forma de dinero o servicios y podría existir sin ninguna acción por parte de un visitante del sitio. En caso de que usted realice actividades en relación con un enlace de afiliación, se entiende que podría darse algún tipo de compensación a Crypto Modeler. Por ejemplo, si usted hace clic en un enlace de afiliado, y se inscribe y negocia en un intercambio, Crypto Modeler puede recibir una compensación. Cada enlace de afiliación está claramente marcado con un icono al lado.
+CryptoModeler puede recibir una compensación por los enlaces de afiliados. Esta compensación puede ser en forma de dinero o servicios y podría existir sin ninguna acción por parte de un visitante del sitio. En caso de que usted realice actividades en relación con un enlace de afiliación, se entiende que podría darse algún tipo de compensación a CryptoModeler. Por ejemplo, si usted hace clic en un enlace de afiliado, y se inscribe y negocia en un intercambio, CryptoModeler puede recibir una compensación. Cada enlace de afiliación está claramente marcado con un icono al lado.
 
 ## Normas comunitarias
 
-Crypto Modeler pretende ofrecer un entorno comunitario en el que todos nuestros usuarios puedan compartir sus opiniones libremente y aprender unos de otros. Todo el mundo es bienvenido a nuestro sitio y a proporcionar pensamientos perspicaces, encantadores e informativos, pero también esperamos proporcionar un espacio en el que todos se respeten mutuamente sin spam, abuso o mensajes promocionales. Queremos que todos los usuarios se sientan cómodos y seguros en este espacio. Por lo tanto, estamos estableciendo algunas reglas de la comunidad para definir lo que es aceptable y lo que no lo es - se espera que todos los usuarios sigan nuestras directrices de la comunidad!
+CryptoModeler pretende ofrecer un entorno comunitario en el que todos nuestros usuarios puedan compartir sus opiniones libremente y aprender unos de otros. Todo el mundo es bienvenido a nuestro sitio y a proporcionar pensamientos perspicaces, encantadores e informativos, pero también esperamos proporcionar un espacio en el que todos se respeten mutuamente sin spam, abuso o mensajes promocionales. Queremos que todos los usuarios se sientan cómodos y seguros en este espacio. Por lo tanto, estamos estableciendo algunas reglas de la comunidad para definir lo que es aceptable y lo que no lo es - se espera que todos los usuarios sigan nuestras directrices de la comunidad!
 
-A quien no respete nuestras reglas se le borrarán los mensajes y se tomarán otras medidas si es necesario. Crypto Modeler podría suspender temporal o permanentemente las cuentas de poder publicar, comentar, reenviar o compartir cualquier mensaje de la función de discusión de Crypto Modeler si se violan repetidamente las reglas de la comunidad.
+A quien no respete nuestras reglas se le borrarán los mensajes y se tomarán otras medidas si es necesario. CryptoModeler podría suspender temporal o permanentemente las cuentas de poder publicar, comentar, reenviar o compartir cualquier mensaje de la función de discusión de CryptoModeler si se violan repetidamente las reglas de la comunidad.
 
 ### Abusos
 
-Los usuarios de Crypto Modeler proceden de todo el mundo y tienen diferentes orígenes en cuanto a idiomas, religiones, culturas, etc. A menudo, los usuarios pueden estar en desacuerdo entre sí, lo que puede ser bueno para estimular la creatividad o representar la diversidad de la comunidad. Sin embargo, si la redacción o las imágenes de los mensajes publicados se utilizan para atacar a otras partes, eso infringe nuestras normas comunitarias. Ejemplos de esto podrían estar relacionados con:
+Los usuarios de CryptoModeler proceden de todo el mundo y tienen diferentes orígenes en cuanto a idiomas, religiones, culturas, etc. A menudo, los usuarios pueden estar en desacuerdo entre sí, lo que puede ser bueno para estimular la creatividad o representar la diversidad de la comunidad. Sin embargo, si la redacción o las imágenes de los mensajes publicados se utilizan para atacar a otras partes, eso infringe nuestras normas comunitarias. Ejemplos de esto podrían estar relacionados con:
 
 ### Violencia
 
@@ -40,11 +40,11 @@ Los usuarios no pueden mostrar ninguna intención de amenazar a un usuario en pa
 
 ### Insultos
 
-Nadie en la comunidad de Crypto Modeler debe ser insultado por tener opiniones diferentes, o de hecho, por cualquier razón. Los usuarios no deben publicar ningún lenguaje o imagen insultante en nuestra plataforma para dirigirse a uno o a un grupo de usuarios.
+Nadie en la comunidad de CryptoModeler debe ser insultado por tener opiniones diferentes, o de hecho, por cualquier razón. Los usuarios no deben publicar ningún lenguaje o imagen insultante en nuestra plataforma para dirigirse a uno o a un grupo de usuarios.
 
 ### Acoso
 
-Se prohíbe cualquier forma de acoso, incluyendo (pero sin limitarse a) el acoso basado en el sexo, la raza, la identificación de género, la edad, la ocupación, la religión, los orígenes nacionales, la discapacidad, el estado civil, las criptocreencias o las creencias políticas. Cualquier insinuación sexual no deseada, los medios de comunicación para adultos, la discusión sexual o la solicitud de actos sexuales también se consideran una forma de acoso que no está permitida en la plataforma Crypto Modeler.
+Se prohíbe cualquier forma de acoso, incluyendo (pero sin limitarse a) el acoso basado en el sexo, la raza, la identificación de género, la edad, la ocupación, la religión, los orígenes nacionales, la discapacidad, el estado civil, las criptocreencias o las creencias políticas. Cualquier insinuación sexual no deseada, los medios de comunicación para adultos, la discusión sexual o la solicitud de actos sexuales también se consideran una forma de acoso que no está permitida en la plataforma CryptoModeler.
 
 ### Vulgaridad
 
@@ -52,7 +52,7 @@ Nuestro sistema impide que se publique lenguaje o imágenes inapropiadas; sin em
 
 ### Mensajes promocionales
 
-Entendemos que muchos de los miembros de nuestra comunidad están involucrados en negocios de criptomonedas o blockchain y les encantaría introducir nuevos servicios o destacar sus brillantes productos a todos los demás usuarios. Le animamos a que comparta ideas, conocimientos sobre productos y nuevas tecnologías, pero le rogamos que no publique directamente mensajes sobre descuentos o ventas en nuestra plataforma. Crypto Modeler se reserva el derecho de revisar o eliminar cualquier mensaje promocional que consideremos inapropiado para los usuarios de nuestra comunidad..
+Entendemos que muchos de los miembros de nuestra comunidad están involucrados en negocios de criptomonedas o blockchain y les encantaría introducir nuevos servicios o destacar sus brillantes productos a todos los demás usuarios. Le animamos a que comparta ideas, conocimientos sobre productos y nuevas tecnologías, pero le rogamos que no publique directamente mensajes sobre descuentos o ventas en nuestra plataforma. CryptoModeler se reserva el derecho de revisar o eliminar cualquier mensaje promocional que consideremos inapropiado para los usuarios de nuestra comunidad..
 
 ### Spams
 
@@ -60,15 +60,15 @@ Esperamos que todo el mundo en nuestra plataforma tenga un espacio cómodo para 
 
 ### Estafas
 
-Cualquier acto o mensaje fraudulento no está permitido en la plataforma Crypto Modeler. Si algún usuario publica mensajes o imágenes que indiquen actividades potencialmente fraudulentas, Crypto Modeler tiene derecho a eliminar el mensaje o a prohibir el uso de las funciones de nuestra comunidad a quien haya publicado los mensajes..
+Cualquier acto o mensaje fraudulento no está permitido en la plataforma CryptoModeler. Si algún usuario publica mensajes o imágenes que indiquen actividades potencialmente fraudulentas, CryptoModeler tiene derecho a eliminar el mensaje o a prohibir el uso de las funciones de nuestra comunidad a quien haya publicado los mensajes..
 
 ### Manipulación
 
-Muchos usuarios en Crypto Modeler suelen buscar ideas de inversión, por lo que es importante proporcionar información precisa y real en la plataforma. Ningún usuario debe manipular o proporcionar información incorrecta a otros usuarios, difundir rumores sobre un proyecto o moneda en particular, o utilizar el poder de la comunidad para animar o golpear cualquier proyecto y tratar de impulsar la opinión de una determinada moneda o proyecto. Los usuarios no deben crear varias cuentas para publicar mensajes u opiniones similares.
+Muchos usuarios en CryptoModeler suelen buscar ideas de inversión, por lo que es importante proporcionar información precisa y real en la plataforma. Ningún usuario debe manipular o proporcionar información incorrecta a otros usuarios, difundir rumores sobre un proyecto o moneda en particular, o utilizar el poder de la comunidad para animar o golpear cualquier proyecto y tratar de impulsar la opinión de una determinada moneda o proyecto. Los usuarios no deben crear varias cuentas para publicar mensajes u opiniones similares.
 
 ## Ilegal
 
-En la plataforma Crypto Modeler no debe realizarse ninguna actividad ilegal. Ningún usuario debe publicar información sobre la venta o la compra de cualquier bien o servicio ilegal, o revelar cualquier acción ilícita.
+En la plataforma CryptoModeler no debe realizarse ninguna actividad ilegal. Ningún usuario debe publicar información sobre la venta o la compra de cualquier bien o servicio ilegal, o revelar cualquier acción ilícita.
 
 ### Bots
 
@@ -84,9 +84,9 @@ Es importante proteger la información personal de todos, incluida la tuya. Si a
 
 ## Política de Privacidad
 
-En Crypto Modeler, nos comprometemos firmemente a proteger y respetar su privacidad.
+En CryptoModeler, nos comprometemos firmemente a proteger y respetar su privacidad.
 
-Esta Política de Privacidad ("Política de Privacidad") cubre su acceso y uso de este sitio web, Crypto Modeler.com (el "Sitio Web"), así como el contenido asociado, el software y las aplicaciones móviles (colectivamente, el "Servicio").
+Esta Política de Privacidad ("Política de Privacidad") cubre su acceso y uso de este sitio web, CryptoModeler.app (el "Sitio Web"), así como el contenido asociado, el software y las aplicaciones móviles (colectivamente, el "Servicio").
 
 Esta Política de Privacidad explica cuándo y por qué y cómo recogemos y utilizamos la información personal de las personas que visitan nuestro Sitio Web o utilizan nuestros Servicios, las condiciones bajo las cuales podemos revelar su información personal a otros, y cómo mantenemos su información personal segura.
 
@@ -94,13 +94,13 @@ Es posible que modifiquemos esta política de privacidad de vez en cuando, por l
 
 ### ¿Qué información recogemos??
 
-Crypto Modeler ("Crypto Modeler", "nosotros" o "nos") recopila (a) las direcciones de correo electrónico de quienes se comunican con nosotros por correo electrónico; (b) información agregada relativa a las páginas a las que acceden o visitan los usuarios; (c) información facilitada por el usuario (como información de encuestas y/o registros en el sitio); y (d) información relacionada con su uso del Sitio Web y/o la aplicación móvil, incluida la dirección IP, el ID del dispositivo, la ubicación geográfica y la fecha y hora de su solicitud; (e) cualquier otra información que pueda proporcionar voluntariamente. También podemos recoger su dirección de correo electrónico y su ID de cartera si decide participar en una de nuestras campañas.
+CryptoModeler ("CryptoModeler", "nosotros" o "nos") recopila (a) las direcciones de correo electrónico de quienes se comunican con nosotros por correo electrónico; (b) información agregada relativa a las páginas a las que acceden o visitan los usuarios; (c) información facilitada por el usuario (como información de encuestas y/o registros en el sitio); y (d) información relacionada con su uso del Sitio Web y/o la aplicación móvil, incluida la dirección IP, el ID del dispositivo, la ubicación geográfica y la fecha y hora de su solicitud; (e) cualquier otra información que pueda proporcionar voluntariamente. También podemos recoger su dirección de correo electrónico y su ID de cartera si decide participar en una de nuestras campañas.
 
 ### Cómo utilizamos la información?
 
-Crypto Modeler utiliza la información recogida para los siguientes fines:
+CryptoModeler utiliza la información recogida para los siguientes fines:
 
-Para cumplir un contrato o tomar medidas vinculadas a un contrato, como procesar su registro en nuestro Sitio Web o enviarle información sobre cambios en nuestros términos o políticas; Cuando sea necesario para fines que sean de interés legítimo de Crypto Modeler, como (a) proporcionar la información o el contenido que ha solicitado; (b) ponernos en contacto con usted sobre nuestros programas, productos, características o servicios; (c) para mejorar nuestros servicios y para fines empresariales internos, como la identificación y autenticación o el servicio de atención al cliente, el seguimiento de la cartera y la sincronización de las preferencias del usuario entre dispositivos; (d) para garantizar la seguridad de nuestro sitio web, tratando de evitar actividades no autorizadas o malintencionadas; (e) para hacer cumplir nuestras condiciones de uso y otras políticas; (f) para ayudar a otras organizaciones (como los propietarios de derechos de autor) a hacer valer sus derechos; y (g) para adaptar el contenido, los anuncios y las ofertas para usted o para otros fines revelados en el momento de la recopilación.
+Para cumplir un contrato o tomar medidas vinculadas a un contrato, como procesar su registro en nuestro Sitio Web o enviarle información sobre cambios en nuestros términos o políticas; Cuando sea necesario para fines que sean de interés legítimo de CryptoModeler, como (a) proporcionar la información o el contenido que ha solicitado; (b) ponernos en contacto con usted sobre nuestros programas, productos, características o servicios; (c) para mejorar nuestros servicios y para fines empresariales internos, como la identificación y autenticación o el servicio de atención al cliente, el seguimiento de la cartera y la sincronización de las preferencias del usuario entre dispositivos; (d) para garantizar la seguridad de nuestro sitio web, tratando de evitar actividades no autorizadas o malintencionadas; (e) para hacer cumplir nuestras condiciones de uso y otras políticas; (f) para ayudar a otras organizaciones (como los propietarios de derechos de autor) a hacer valer sus derechos; y (g) para adaptar el contenido, los anuncios y las ofertas para usted o para otros fines revelados en el momento de la recopilación.
 
 Si no desea recibir información comercial sobre nuestros programas, productos, funciones o servicios, puede optar por no recibir comunicaciones comerciales.
 
@@ -118,7 +118,7 @@ Proporcionamos información personal a empresas o personas de confianza con el �
 
 Proporcionamos dicha información a terceros que han firmado acuerdos de confidencialidad con nosotros.
 
-Proporcionamos dicha información a una empresa controlada por Crypto Modeler, o bajo el control común de ésta, para cualquier propósito permitido por esta Política de Privacidad.
+Proporcionamos dicha información a una empresa controlada por CryptoModeler, o bajo el control común de ésta, para cualquier propósito permitido por esta Política de Privacidad.
 
 Podemos agregar, anonimizar y publicar datos sólo con fines estadísticos y de investigación. Por ejemplo, podemos recopilar y compartir información relacionada con la popularidad de ciertos productos rastreados por los usuarios. En cualquier caso, la información no podrá ser rastreada hasta ningún individuo.
 
@@ -134,7 +134,7 @@ Conservamos la información mientras sea necesario para prestar los Servicios so
 
 ### Niños
 
-No recopilamos conscientemente información de niños menores de 18 años. Los niños de 17 años o menos no deben enviar ninguna información personal sin el permiso de sus padres o tutores. Al utilizar el servicio Crypto Modeler, usted declara que tiene al menos 18 años.
+No recopilamos conscientemente información de niños menores de 18 años. Los niños de 17 años o menos no deben enviar ninguna información personal sin el permiso de sus padres o tutores. Al utilizar el servicio CryptoModeler, usted declara que tiene al menos 18 años.
 
 ### Derechos de usuario de EU y EEA
 
@@ -146,7 +146,7 @@ Tiene derecho a acceder a sus datos personales y, si es necesario, a modificarlo
 
 Si desea plantear una inquietud sobre el uso que hacemos de su información (y sin perjuicio de cualquier otro derecho que pueda tener), tiene derecho a hacerlo ante su autoridad local de supervisión, aunque esperamos poder ayudarle con cualquier consulta o inquietud que pueda tener sobre nuestro uso de sus datos personales.
 
-Crypto Modeler puede haber recogido, utilizado y compartido, con fines comerciales, información personal sobre usted tal y como se describe en esta Política de Privacidad. Cada categoría de datos puede ser utilizada por Crypto Modeler o compartida con terceros también como se describe en esta Política de Privacidad. Los residentes de California tienen derecho a solicitar el acceso y la eliminación de la información que Crypto Modeler posee sobre ellos. Dichas solicitudes pueden enviarse por correo electrónico a legal@Crypto Modeler.com o por correo a Crypto Modeler OpCo LLC. Crypto Modeler no venderá sus datos personales sin su consentimiento. Crypto Modeler no le discriminará por ejercer sus derechos en virtud de la CCPA. En concreto, no lo haremos:
+CryptoModeler puede haber recogido, utilizado y compartido, con fines comerciales, información personal sobre usted tal y como se describe en esta Política de Privacidad. Cada categoría de datos puede ser utilizada por CryptoModeler o compartida con terceros también como se describe en esta Política de Privacidad. Los residentes de California tienen derecho a solicitar el acceso y la eliminación de la información que CryptoModeler posee sobre ellos. Dichas solicitudes pueden enviarse por correo electrónico a inof@cryptomodeler.app. CryptoModeler no venderá sus datos personales sin su consentimiento. CryptoModeler no le discriminará por ejercer sus derechos en virtud de la CCPA. En concreto, no lo haremos:
 
 * Negar el acceso a nuestros Servicios;
 * Cobrar una tarifa diferente por el uso de nuestros Servicios; o
@@ -154,10 +154,10 @@ Crypto Modeler puede haber recogido, utilizado y compartido, con fines comercial
 
 ### Cambios
 
-Crypto Modeler may periodically update this policy as deemed necessary. You may access this Policy at any time through our website.
+CryptoModeler may periodically update this policy as deemed necessary. You may access this Policy at any time through our website.
 
 ### Preguntas
 
-Cualquier pregunta sobre esta política de privacidad debe dirigirse a esta dirección de correo electrónico: legal@Crypto Modeler.com.
+Cualquier pregunta sobre esta política de privacidad debe dirigirse a esta dirección de correo electrónico: info@cryptoModeler.app
 
 >Fecha de entrada en vigor: Enero 17, 2022
