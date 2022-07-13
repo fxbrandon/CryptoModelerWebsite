@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: Información Legal sobre Crypto Modeler
-h1: Términos y Condiciones de la página web de Crypto Modeler
+title: Información Legal sobre CryptoModeler
+h1: Términos y Condiciones de la página web de CryptoModeler
 language: es
 handle: /legal
-description: Condiciones, privacidad y todos los términos legales sobre el uso de nuestro sitio web
+description: <center>Condiciones, privacidad y términos legales sobre el uso de nuestro sitio web/center>
 ---
 ## Descargo de responsabilidad
 
