@@ -154,10 +154,10 @@ CryptoModeler puede haber recogido, utilizado y compartido, con fines comerciale
 
 ### Cambios
 
-CryptoModeler may periodically update this policy as deemed necessary. You may access this Policy at any time through our website.
+CryptoModeler puede actualizar periódicamente esta política según lo considere necesario. Puede acceder a esta Política en cualquier momento a través de nuestro sitio web.
 
 ### Preguntas
 
-Cualquier pregunta sobre esta política de privacidad debe dirigirse a esta dirección de correo electrónico: info@cryptoModeler.app
+Cualquier pregunta sobre esta política de privacidad debe dirigirse a esta dirección de correo electrónico: info@cryptomodeler.app
 
 >Fecha de entrada en vigor: Enero 17, 2022
