@@ -4,7 +4,7 @@ title: Información Legal sobre CryptoModeler
 h1: Términos y Condiciones de la página web de CryptoModeler
 language: es
 handle: /legal
-description: <center>Condiciones, privacidad y términos legales sobre el uso de nuestro sitio web/center>
+description: <center>Condiciones, privacidad y términos legales sobre el uso de nuestro sitio web</center>
 ---
 ## Descargo de responsabilidad
 
