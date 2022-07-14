@@ -461,7 +461,6 @@ nav li {
   color: var(--principal);
   text-shadow: var(--shadow);
   font-weight: 900;
-  font-size: 3rem;
 }
 
 .how-steps {
