@@ -42,7 +42,7 @@ description: The latest news from the world of cryptocurrencies and blockchain. 
     {% endfor %}
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first | remove: "es" }}{% endcapture %}
-    <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+    <h3 id="{{ category_name}}">{{ category_name }}
     </h3>
     {% for post in site.categories[category_name] %}
     {% if post.language == page.language %}
