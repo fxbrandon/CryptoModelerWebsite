@@ -33,7 +33,7 @@ description: The latest news from the world of cryptocurrencies and blockchain. 
     {% for new in site.data.news %}
     <article class="article-blog">
     <a href="{{ new.link }}" title="{{new.title}}">
-        <img src="{{site.baseurl}}/img/{{ new.img }}" width="150px" height="150px" alt="{{ post.title }}"
+        <img src="{{site.baseurl}}/img/news/{{ new.date | date_to_string }}/{{ new.img }}" width="150px" height="150px" alt="{{ post.title }}"
           loading="lazy">
         <h4>{{ new.title }}</h4>
         <small>{{ new.date | date_to_string}}</small>
